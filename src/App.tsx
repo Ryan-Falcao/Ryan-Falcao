@@ -28,7 +28,7 @@ function useReveal() {
 function TerminalHero() {
   const lines = [
     { text: "$ whoami", delay: 0 },
-    { text: "Ryan Marques", delay: 600 },
+    { text: "Ryan Falcão", delay: 600 },
     { text: "$ cat role.txt", delay: 1200 },
     { text: "Desenvolvedor Full Stack", delay: 1800 },
     { text: "$ ls skills/", delay: 2600 },
@@ -478,7 +478,7 @@ export default function App() {
       <Projetos />
       <Contato />
       <footer className="footer">
-        <span>Feito com React & ☕ por Ryan Marques</span>
+        <span>Feito com React & ☕ por Ryan Falcão</span>
       </footer>
     </>
   );
