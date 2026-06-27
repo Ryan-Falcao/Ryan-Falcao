@@ -412,7 +412,7 @@ function Nav() {
   return (
     <nav className={`nav ${scrolled ? "scrolled" : ""}`}>
       <span className="nav-logo">
-        rm<span className="accent">.</span>
+        rf<span className="accent">.</span>
       </span>
       <div className="nav-links">
         <a href="#sobre">Sobre</a>
