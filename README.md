@@ -1,24 +1,24 @@
-# 🚀 Portfólio — Ryan Falcao
+#  Portfólio — Ryan Falcao
 
 Portfólio pessoal desenvolvido com tema espacial dark, terminal animado e um modo RPG 8-bit experimental.
 
-🔗 **Deploy:** _adicione o link aqui_
-📦 **Repositório:** [github.com/Ryan-Falcao](https://github.com/Ryan-Falcao)
+**Deploy:** _adicione o link aqui_
+**Repositório:** [github.com/Ryan-Falcao](https://github.com/Ryan-Falcao)
 
 ---
 
-## ✨ Destaques
+## Destaques
 
-- 🖥️ **Hero animado em terminal** — apresentação estilo linha de comando
-- 🌌 **Tema dark espacial** — visual imersivo e moderno
-- 🎮 **Modo RPG 8-bit** — easter egg experimental navegável
-- 🛠️ **Seção de skills** — stack técnica organizada por categoria
-- 📁 **Cards de projetos** — showcase dos principais trabalhos
-- 📬 **Formulário de contato funcional** — integrado ao Supabase, com notificações por e-mail via Resend + Supabase Edge Functions
+- **Hero animado em terminal** — apresentação estilo linha de comando
+- **Tema dark espacial** — visual imersivo e moderno
+- **Modo RPG 8-bit** — easter egg experimental navegável
+- **Seção de skills** — stack técnica organizada por categoria
+- **Cards de projetos** — showcase dos principais trabalhos
+- **Formulário de contato funcional** — integrado ao Supabase, com notificações por e-mail via Resend + Supabase Edge Functions
 
 ---
 
-## 🧱 Stack Técnica
+## Stack Técnica
 
 | Camada | Tecnologias |
 |---|---|
@@ -30,7 +30,7 @@ Portfólio pessoal desenvolvido com tema espacial dark, terminal animado e um mo
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 ├── src/
@@ -45,7 +45,7 @@ Portfólio pessoal desenvolvido com tema espacial dark, terminal animado e um mo
 
 ---
 
-## ⚙️ Rodando localmente
+##  Rodando localmente
 
 ```bash
 # Clone o repositório
@@ -65,7 +65,7 @@ npm run dev
 
 ---
 
-## 🔐 Variáveis de Ambiente
+## Variáveis de Ambiente
 
 ```env
 VITE_SUPABASE_URL=
@@ -73,19 +73,13 @@ VITE_SUPABASE_ANON_KEY=
 RESEND_API_KEY=
 ```
 
-> ⚠️ Nunca commite o arquivo `.env`. Ele já está incluso no `.gitignore`.
+> Nunca commite o arquivo `.env`. Ele já está incluso no `.gitignore`.
 
 ---
 
-## 📬 Formulário de Contato
+## Formulário de Contato
 
 O formulário envia os dados para o Supabase e dispara uma notificação por e-mail via **Resend**, através de uma **Supabase Edge Function** acionada por webhook.
-
----
-
-## 🎮 Modo RPG (Easter Egg)
-
-Um modo experimental em estilo 8-bit escondido no portfólio — navegue pela página para descobrir como ativá-lo.
 
 ---
 
@@ -95,7 +89,7 @@ Este projeto é de uso pessoal. Sinta-se à vontade para se inspirar, mas evite 
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Ryan Falcao**
 Full Stack Developer — React, TypeScript, PHP, Python, SQL, Supabase
