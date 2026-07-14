@@ -58,7 +58,7 @@ Estou construindo minha jornada no desenvolvimento de software de forma extremam
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 Descubra seu Stand</h3>
+      <h3> Descubra seu Stand</h3>
       <p>Aplicação Full-stack (Spring Boot + React) que calcula o Stand de JoJo do usuário baseado no nascimento e tarot.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-Java-6DB33F?style=flat-square" />
