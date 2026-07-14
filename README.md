@@ -1,97 +1,104 @@
-#  Portfólio — Ryan Falcao
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8d52ff&height=220&section=header&text=Ryan%20👋&fontSize=70&fontColor=ffd700&animation=twinkling" width="100%" />
+  
+  <h3>🪐 Engenheiro de Software em Formação | Desenvolvedor Backend Java ☕</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_LINK_DO_LINKEDIN_AQUI">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:seu-email@provedor.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-Portfólio pessoal desenvolvido com tema espacial dark, terminal animado e um modo RPG 8-bit experimental.
+<br />
 
-**Deploy:** _adicione o link aqui_
-**Repositório:** [github.com/Ryan-Falcao](https://github.com/Ryan-Falcao)
+## 🔮 O Despertar de um Desenvolvedor
 
----
+Estou construindo minha jornada no desenvolvimento de software de forma extremamente prática: **escrevendo código, quebrando layouts e construindo soluções reais.** Vindo de uma base sólida em *React, TypeScript e Node.js*, hoje estou focado na transição e especialização no ecossistema **Java & Spring Boot**.
 
-## Destaques
-
-- **Hero animado em terminal** — apresentação estilo linha de comando
-- **Tema dark espacial** — visual imersivo e moderno
-- **Modo RPG 8-bit** — easter egg experimental navegável
-- **Seção de skills** — stack técnica organizada por categoria
-- **Cards de projetos** — showcase dos principais trabalhos
-- **Formulário de contato funcional** — integrado ao Supabase, com notificações por e-mail via Resend + Supabase Edge Functions
-
----
-
-## Stack Técnica
-
-| Camada | Tecnologias |
-|---|---|
-| Frontend | React, TypeScript, Vite |
-| Estilização | CSS (tema dark customizado) |
-| Backend/BaaS | Supabase (Database, Edge Functions) |
-| E-mail | Resend |
-| Deploy | Vercel |
+* 🎓 **Formação:** Bacharelado em Engenharia de Software na **UNIPÊ** (Previsão: 2029)
+* 📍 **Localização:** João Pessoa - PB 🇧🇷
+* 🔍 **Foco Atual:** Em busca de oportunidades de estágio focadas em desenvolvimento Backend.
 
 ---
 
-## Estrutura do Projeto
+## ⚡ Minhas Habilidades (Tech Stack)
 
-```
-├── src/
-│   ├── components/     # Componentes reutilizáveis (hero, skills, cards, etc)
-│   ├── pages/           # Páginas principais
-│   ├── rpg/             # Modo RPG 8-bit experimental
-│   └── lib/             # Integração com Supabase
-├── public/
-├── .env.example
-└── vite.config.ts
-```
+### ☕ Backend & Banco de Dados (Foco Principal)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+</p>
 
----
+### 🎨 Frontend & Ecossistema Serverless
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-##  Rodando localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/Ryan-Falcao/SEU-REPO.git
-cd SEU-REPO
-
-# Instale as dependências
-npm install
-
-# Configure as variáveis de ambiente
-cp .env.example .env
-# Preencha com suas chaves do Supabase e Resend
-
-# Rode o projeto
-npm run dev
-```
+### ⚙️ Ferramentas de Invocação
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
-## Variáveis de Ambiente
+## 💡 Projetos em Destaque
 
-```env
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-RESEND_API_KEY=
-```
-
-> Nunca commite o arquivo `.env`. Ele já está incluso no `.gitignore`.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔮 Descubra seu Stand</h3>
+      <p>Aplicação Full-stack (Spring Boot + React) que calcula o Stand de JoJo do usuário baseado no nascimento e tarot.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-Java-6DB33F?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-TS-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel_/_Render-Deploy-000000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Agenda Digital</h3>
+      <p>Aplicativo de tarefas compartilhado com sincronização em tempo real e notificações push automáticas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-TS-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Portfólio Cósmico</h3>
+      <p>Seu portfólio pessoal com tema espacial, terminal interativo e contato direto via Edge Functions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge_Functions-Serverless-3ECF8E?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br />
+      <strong>⚡ "Yare Yare Daze..."</strong>
+      <p>Quer ver esses códigos rodando de perto? <br>Explore meus repositórios abaixo!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Formulário de Contato
+## 📚 Minha Árvore de Habilidades (Atualmente Estudando)
 
-O formulário envia os dados para o Supabase e dispara uma notificação por e-mail via **Resend**, através de uma **Supabase Edge Function** acionada por webhook.
-
----
-
-## 📄 Licença
-
-Este projeto é de uso pessoal. Sinta-se à vontade para se inspirar, mas evite copiar o conteúdo diretamente.
-
----
-
-## Autor
-
-**Ryan Falcao**
-Full Stack Developer — React, TypeScript, PHP, Python, SQL, Supabase
-
-- GitHub: [@Ryan-Falcao](https://github.com/Ryan-Falcao)
+```mermaid
+graph TD
+    A[Conceitos Sólidos de Java] --> B[Spring Boot & APIs REST]
+    B --> C[Spring Security & JWT 🎯 Foco Atual]
+    C --> D[Spring Data JPA & Hibernate]
+    D --> E[Testes Automatizados com JUnit]
