@@ -249,7 +249,7 @@ Data Specialist
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Falcao&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF4D8D&area=true&hide_border=true" />
+
 
 </div>
 
