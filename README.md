@@ -138,4 +138,15 @@ Aberto a oportunidades de **estágio em desenvolvimento Backend**. Se você curt
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:8d52ff&height=100&section=footer" width="100%" />
 
+<br/>
+
+<sub>psst, você chegou até aqui... 👀</sub>
+<br/>
+<img src="https://play.pokemonshowdown.com/sprites/ani/charizard.gif" width="50" alt="Charizard" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="50" alt="Gengar" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="50" alt="Lucario" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="50" alt="Greninja" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/lapras.gif" width="50" alt="Lapras" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="50" alt="Mewtwo" />
+
 </div>
