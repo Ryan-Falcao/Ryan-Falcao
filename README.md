@@ -1,173 +1,173 @@
-
 <div align="center">
 
-# ⚡ Ryan Falcão
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:FF4D8D&height=180&section=header&text=RYAN%20FALCÃO&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
-### Software Engineering Student • Backend Developer • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React;Backend+Development;REST+APIs+%7C+SQL+%7C+JWT;Building+real+world+applications+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+products+that+solve+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROJECT-MENUQR-FF4D8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILDING-MENUQR-FF4D8D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LEVEL-UP-EVERYDAY-FFD166?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="90">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="95">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="95">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="95">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="95">
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
+
+# 👾 SYSTEM ONLINE
+
+<img src="https://img.shields.io/badge/CODING-24%2F7-00D9FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/COFFEE-REQUIRED-8B5CF6?style=flat-square&logo=buymeacoffee&logoColor=white" />
+<img src="https://img.shields.io/badge/BUGS-DEFEATED-FF4D8D?style=flat-square&logo=bugatti&logoColor=white" />
+<img src="https://img.shields.io/badge/XP-GAINING-FFD166?style=flat-square&logo=gamemaker&logoColor=black" />
+
+</div>
+
+---
+
+# 🧑‍💻 ABOUT ME
+
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║  > Ryan.exe                                              ║
+║                                                          ║
+║  Software Engineering Student                            ║
+║  Backend Developer                                       ║
+║  Full Stack Developer                                    ║
+║                                                          ║
+║  Turning ideas into applications.                        ║
+║  Turning bugs into knowledge.                             ║
+║  Turning coffee into commits. ☕                          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
 
 I'm a **Software Engineering student** passionate about software development, backend systems and building real-world applications.
 
-Currently, I'm focused on **Java, Spring Boot, REST APIs, databases and React**, while developing my own projects and constantly improving my understanding of software architecture.
+My current focus is **Java, Spring Boot, REST APIs, databases, authentication and React**, while continuously improving my understanding of architecture and clean software design.
 
-I enjoy taking an idea, breaking it down into systems and turning it into something that actually works.
+I like discovering how things work under the hood instead of simply making them work.
 
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   &gt; Ryan.exe                                         ║
-║                                                      ║
-║   Software Engineering Student                      ║
-║   Backend Developer                                  ║
-║   Full Stack Developer                               ║
-║                                                      ║
-║   Learn → Build → Break → Debug → Improve            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-</pre>
+<img src="https://img.shields.io/badge/THINK-001219?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BREAK-FF4D8D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FIX-00D9FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARN-FFD166?style=for-the-badge&logoColor=black" />
 
 </div>
 
 ---
 
-# 🚀 Current Project
+# 🚀 CURRENT QUEST
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="90">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="110">
 
-# 🍽️ MenuQR
+## 🍽️ MenuQR
 
 ### Digital menus for restaurants
 
+<img src="https://img.shields.io/badge/TYPE-SaaS-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/DATABASE-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </div>
 
-**MenuQR** is a SaaS platform I'm developing to help restaurants create and manage their digital menus.
-
-The concept is simple:
+MenuQR is a SaaS platform I'm developing to help restaurants create and manage their own digital menus.
 
 <div align="center">
 
 <pre>
-                 ┌──────────────────┐
-                 │    RESTAURANT    │
-                 └────────┬─────────┘
+               ┌──────────────────────┐
+               │      RESTAURANT      │
+               └──────────┬───────────┘
                           │
                           ▼
-                 ┌──────────────────┐
-                 │      MenuQR      │
-                 │                  │
-                 │   Dashboard      │
-                 │   Products       │
-                 │   Categories     │
-                 │   QR Code        │
-                 └────────┬─────────┘
+               ┌──────────────────────┐
+               │        MenuQR        │
+               ├──────────────────────┤
+               │     Dashboard        │
+               │     Products         │
+               │     Categories       │
+               │     QR Code           │
+               │     Subscription      │
+               └──────────┬───────────┘
                           │
                           ▼
-                 ┌──────────────────┐
-                 │     CUSTOMER     │
-                 │                  │
-                 │    Scan QR Code  │
-                 │         ↓        │
-                 │   Digital Menu   │
-                 └──────────────────┘
-</pre>
-
-</div>
-
-### 🔧 MenuQR Architecture
-
-<div align="center">
-
-<pre>
-                  ┌─────────────┐
-                  │    React    │
-                  │  Frontend   │
-                  └──────┬──────┘
-                         │
-                         │ REST API
-                         ▼
-                  ┌─────────────┐
-                  │ Spring Boot │
-                  │   Backend   │
-                  └──────┬──────┘
-                         │
-              ┌──────────┼──────────┐
-              │          │          │
-              ▼          ▼          ▼
-           JWT Auth   MercadoPago  Webhooks
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ PostgreSQL  │
-                  └─────────────┘
+               ┌──────────────────────┐
+               │       CUSTOMER       │
+               ├──────────────────────┤
+               │      Scan QR         │
+               │          ↓           │
+               │    Digital Menu      │
+               └──────────────────────┘
 </pre>
 
 </div>
 
 ### ✨ Features
 
-- 🔐 JWT authentication
-- 👤 Restaurant accounts
-- 🍔 Product management
-- 📂 Categories
-- 📱 Digital menus
-- 📷 QR Code generation
-- 💳 Mercado Pago subscriptions
-- 🔔 Payment webhooks
-- 🗄️ PostgreSQL
-- 🌐 REST API
+<div align="center">
+
+<img src="https://img.shields.io/badge/JWT-AUTH-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/REST-API-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/QR-CODE-FF4D8D?style=flat-square" />
+<img src="https://img.shields.io/badge/MERCADO-PAGO-00AEEF?style=flat-square" />
+<img src="https://img.shields.io/badge/WEBHOOKS-FFD166?style=flat-square" />
+<img src="https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square" />
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
-
-### Backend
+# 🛠️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+## ⚡ Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,php,html,css" />
 
-### Frontend
+<br><br>
 
-<div align="center">
+## 🔥 Backend
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-</div>
+<br><br>
 
-### Database
+## 🎨 Frontend
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+
+<br><br>
+
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-</div>
+<br><br>
 
-### Tools
-
-<div align="center">
+## 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
 
@@ -175,75 +175,64 @@ The concept is simple:
 
 ---
 
-# 🧠 Skills & Learning
-
-<div align="center">
-
-| Technology | Experience |
-|:---:|:---:|
-| ☕ Java | █████████████████░░░ |
-| 🌱 Spring Boot | ████████████████░░░░ |
-| 🗄️ SQL | █████████████████░░░ |
-| 🌐 REST APIs | ██████████████████░░ |
-| ⚛️ React | ██████████████░░░░░░ |
-| 🟨 JavaScript | ███████████████░░░░░ |
-| 🐙 Git | ██████████████████░░ |
-| 🏗️ Architecture | ████████████░░░░░░░░ |
-
-</div>
-
----
-
-# 🎮 Developer Pokédex
+# 🎮 DEVELOPER POKÉDEX
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="85">
 
-### 🔥 Charizard
+## 🔥 CHARIZARD
 
-**Java**
+<img src="https://img.shields.io/badge/TYPE-FIRE-FF6B35?style=flat-square" />
+
+**JAVA**
 
 Backend Power
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="85">
 
-### ⚡ Pikachu
+## ⚡ PIKACHU
 
-**JavaScript**
+<img src="https://img.shields.io/badge/TYPE-ELECTRIC-FFD166?style=flat-square" />
+
+**JAVASCRIPT**
 
 Fast & Flexible
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="80">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="85">
 
-### 🥋 Lucario
+## 🥋 LUCARIO
 
-**Spring Boot**
+<img src="https://img.shields.io/badge/TYPE-STEEL-94A3B8?style=flat-square" />
+
+**SPRING BOOT**
 
 API Specialist
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="80">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="85">
 
-### 💧 Vaporeon
+## 💧 VAPOREON
 
-**PostgreSQL**
+<img src="https://img.shields.io/badge/TYPE-WATER-00D9FF?style=flat-square" />
+
+**POSTGRESQL**
 
 Data Specialist
 
@@ -256,27 +245,23 @@ Data Specialist
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&text_color=FFFFFF" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Falcao&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Falcao&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -286,83 +271,82 @@ Data Specialist
 
 ---
 
-# 💡 Development Philosophy
+# 🧠 DEVELOPER ATTRIBUTES
 
 <div align="center">
 
-### "Don't just make it work. Understand why it works."
-
-<br>
-
-<pre>
-       ┌─────────┐
-       │  LEARN  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  BREAK  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  DEBUG  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │UNDERSTAND│
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │ IMPROVE │
-       └────┬────┘
-            │
-            └───────────────► 🔄
-</pre>
+| ATTRIBUTE | LEVEL |
+|:---:|:---:|
+| ☕ Java | ⭐⭐⭐⭐⭐ |
+| 🌱 Spring Boot | ⭐⭐⭐⭐⭐ |
+| 🗄️ SQL | ⭐⭐⭐⭐⭐ |
+| 🌐 REST APIs | ⭐⭐⭐⭐⭐ |
+| ⚛️ React | ⭐⭐⭐⭐ |
+| 🟨 JavaScript | ⭐⭐⭐⭐ |
+| 🐙 Git | ⭐⭐⭐⭐⭐ |
+| 🏗️ Architecture | ⭐⭐⭐ |
+| 🔐 Security | ⭐⭐⭐⭐ |
+| 💳 Integrations | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+# 💡 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-### 🚀 Become a strong Backend Developer
+<img src="https://img.shields.io/badge/LEARN-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BREAK-FF4D8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEBUG-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UNDERSTAND-FFD166?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/IMPROVE-00C896?style=for-the-badge" />
 
-### 🧠 Improve Software Architecture
+<br><br>
 
-### 🔐 Build secure and reliable APIs
-
-### 🗄️ Master databases and data modeling
-
-### 🌐 Create scalable Full Stack applications
-
-### 💼 Turn projects into real products
+### “Don't just make it work. Understand why it works.”
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 🎯 CURRENT GOALS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_Backend_Development-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🧠_Software_Architecture-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔐_Secure_APIs-FF4D8D?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🗄️_Database_Design-336791?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🌐_Full_Stack-FF6B35?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/💼_Real_Products-00C896?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📫 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Ryan-Falcao">
-<img src="https://img.shields.io/badge/GitHub-Ryan--Falcao-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-Ryan--Falcao-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+
 </a>
 
 </div>
@@ -371,16 +355,18 @@ Data Specialist
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="110">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="120">
 
 <br>
 
-### Thanks for visiting my profile! 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFD166&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Keep+learning.;Keep+building.;Keep+evolving.+%E2%9A%A1" alt="Footer typing" />
 
-**Keep learning. Keep building. Keep evolving. ⚡**
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/MADE_WITH-☕_AND_CODE-0D1117?style=for-the-badge" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=7C3AED" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:FF4D8D&height=120&section=footer&animation=fadeIn" />
 
 </div>
