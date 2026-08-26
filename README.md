@@ -249,9 +249,7 @@ Data Specialist
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FF4D8D&text_color=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Falcao&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF4D8D&area=true&hide_border=true" />
 
 </div>
 
@@ -259,10 +257,29 @@ Data Specialist
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Falcao&repo=MenuQR&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=FF4D8D&text_color=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-Falcao&theme=tokyonight" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryan-Falcao&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-Falcao&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryan-Falcao&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryan-Falcao&theme=tokyonight&utcOffset=-3" />
+
+</div>
 ---
 
 # 🐍 CONTRIBUTION ACTIVITY
