@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:FF4D8D&height=180&section=header&text=RYAN%20FALCÃO&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+products+that+solve+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Construindo+produtos+que+resolvem+problemas+reais+%F0%9F%9A%80" alt="Texto animado" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BUILDING-MENUQR-FF4D8D?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LEVEL-UP-EVERYDAY-FFD166?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCO-BACKEND-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-MENUQR-FF4D8D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/EVOLUINDO-TODO%20DIA-FFD166?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
@@ -24,18 +24,18 @@
 
 <div align="center">
 
-# 👾 SYSTEM ONLINE
+# 👾 SISTEMA ONLINE
 
-<img src="https://img.shields.io/badge/CODING-24%2F7-00D9FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/COFFEE-REQUIRED-8B5CF6?style=flat-square&logo=buymeacoffee&logoColor=white" />
-<img src="https://img.shields.io/badge/BUGS-DEFEATED-FF4D8D?style=flat-square&logo=bugatti&logoColor=white" />
-<img src="https://img.shields.io/badge/XP-GAINING-FFD166?style=flat-square&logo=gamemaker&logoColor=black" />
+<img src="https://img.shields.io/badge/CODANDO-24%2F7-00D9FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/CAFÉ-NECESSÁRIO-8B5CF6?style=flat-square&logo=buymeacoffee&logoColor=white" />
+<img src="https://img.shields.io/badge/BUGS-DERROTADOS-FF4D8D?style=flat-square&logo=bugatti&logoColor=white" />
+<img src="https://img.shields.io/badge/XP-ACUMULANDO-FFD166?style=flat-square&logo=gamemaker&logoColor=black" />
 
 </div>
 
 ---
 
-# 🧑‍💻 ABOUT ME
+# 🧑‍💻 SOBRE MIM
 
 <div align="center">
 
@@ -44,38 +44,38 @@
 ║                                                          ║
 ║  > Ryan.exe                                              ║
 ║                                                          ║
-║  Software Engineering Student                            ║
-║  Backend Developer                                       ║
-║  Full Stack Developer                                    ║
+║  Estudante de Engenharia de Software                     ║
+║  Desenvolvedor Backend                                   ║
+║  Desenvolvedor Full Stack                                ║
 ║                                                          ║
-║  Turning ideas into applications.                        ║
-║  Turning bugs into knowledge.                             ║
-║  Turning coffee into commits. ☕                          ║
+║  Transformando ideias em aplicações.                     ║
+║  Transformando bugs em conhecimento.                     ║
+║  Transformando café em commits. ☕                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
 
 </div>
 
-I'm a **Software Engineering student** passionate about software development, backend systems and building real-world applications.
+Sou **estudante de Engenharia de Software** apaixonado por desenvolvimento de software, sistemas backend e pela criação de aplicações reais.
 
-My current focus is **Java, Spring Boot, REST APIs, databases, authentication and React**, while continuously improving my understanding of architecture and clean software design.
+Meu foco atual está em **Java, Spring Boot, REST APIs, bancos de dados, autenticação e React**, enquanto continuo aprimorando meu conhecimento em arquitetura e desenvolvimento de software limpo.
 
-I like discovering how things work under the hood instead of simply making them work.
+Gosto de entender como as coisas funcionam por baixo dos panos, em vez de simplesmente fazer com que funcionem.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/THINK-001219?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BREAK-FF4D8D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FIX-00D9FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARN-FFD166?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/PENSAR-001219?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CONSTRUIR-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/QUEBRAR-FF4D8D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CORRIGIR-00D9FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/APRENDER-FFD166?style=for-the-badge&logoColor=black" />
 
 </div>
 
 ---
 
-# 🚀 CURRENT QUEST
+# 🚀 MISSÃO ATUAL
 
 <div align="center">
 
@@ -83,67 +83,67 @@ I like discovering how things work under the hood instead of simply making them 
 
 ## 🍽️ MenuQR
 
-### Digital menus for restaurants
+### Cardápios digitais para restaurantes
 
-<img src="https://img.shields.io/badge/TYPE-SaaS-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TIPO-SaaS-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BACKEND-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/DATABASE-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/BANCO-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
-MenuQR is a SaaS platform I'm developing to help restaurants create and manage their own digital menus.
+O **MenuQR** é uma plataforma SaaS que estou desenvolvendo para ajudar restaurantes a criarem e administrarem seus próprios cardápios digitais.
 
 <div align="center">
 
 <pre>
                ┌──────────────────────┐
-               │      RESTAURANT      │
+               │      RESTAURANTE     │
                └──────────┬───────────┘
                           │
                           ▼
                ┌──────────────────────┐
                │        MenuQR        │
                ├──────────────────────┤
-               │     Dashboard        │
-               │     Products         │
-               │     Categories       │
+               │     Painel            │
+               │     Produtos          │
+               │     Categorias        │
                │     QR Code           │
-               │     Subscription      │
+               │     Assinatura        │
                └──────────┬───────────┘
                           │
                           ▼
                ┌──────────────────────┐
-               │       CUSTOMER       │
+               │       CLIENTE        │
                ├──────────────────────┤
-               │      Scan QR         │
+               │    Escaneia o QR     │
                │          ↓           │
-               │    Digital Menu      │
+               │   Cardápio Digital   │
                └──────────────────────┘
 </pre>
 
 </div>
 
-### ✨ Features
+### ✨ Funcionalidades
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JWT-AUTH-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-AUTENTICAÇÃO-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/REST-API-00D9FF?style=flat-square" />
 <img src="https://img.shields.io/badge/QR-CODE-FF4D8D?style=flat-square" />
 <img src="https://img.shields.io/badge/MERCADO-PAGO-00AEEF?style=flat-square" />
-<img src="https://img.shields.io/badge/WEBHOOKS-FFD166?style=flat-square" />
+<img src="https://img.shields.io/badge-WEBHOOKS-FFD166?style=flat-square" />
 <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square" />
 
 </div>
 
 ---
 
-# 🛠️ TECH STACK
+# 🛠️ TECNOLOGIAS
 
 <div align="center">
 
-## ⚡ Languages
+## ⚡ Linguagens
 
 <img src="https://skillicons.dev/icons?i=java,javascript,python,php,html,css" />
 
@@ -161,13 +161,13 @@ MenuQR is a SaaS platform I'm developing to help restaurants create and manage t
 
 <br><br>
 
-## 🗄️ Databases
+## 🗄️ Bancos de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 <br><br>
 
-## 🔧 Tools
+## 🔧 Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
 
@@ -175,7 +175,7 @@ MenuQR is a SaaS platform I'm developing to help restaurants create and manage t
 
 ---
 
-# 🎮 DEVELOPER POKÉDEX
+# 🎮 POKÉDEX DO DESENVOLVEDOR
 
 <div align="center">
 
@@ -188,11 +188,11 @@ MenuQR is a SaaS platform I'm developing to help restaurants create and manage t
 
 ## 🔥 CHARIZARD
 
-<img src="https://img.shields.io/badge/TYPE-FIRE-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/TIPO-FOGO-FF6B35?style=flat-square" />
 
 **JAVA**
 
-Backend Power
+Poder do Backend
 
 </td>
 
@@ -202,11 +202,11 @@ Backend Power
 
 ## ⚡ PIKACHU
 
-<img src="https://img.shields.io/badge/TYPE-ELECTRIC-FFD166?style=flat-square" />
+<img src="https://img.shields.io/badge/TIPO-ELÉTRICO-FFD166?style=flat-square" />
 
 **JAVASCRIPT**
 
-Fast & Flexible
+Rápido & Flexível
 
 </td>
 
@@ -216,11 +216,11 @@ Fast & Flexible
 
 ## 🥋 LUCARIO
 
-<img src="https://img.shields.io/badge/TYPE-STEEL-94A3B8?style=flat-square" />
+<img src="https://img.shields.io/badge/TIPO-AÇO-94A3B8?style=flat-square" />
 
 **SPRING BOOT**
 
-API Specialist
+Especialista em APIs
 
 </td>
 
@@ -230,11 +230,11 @@ API Specialist
 
 ## 💧 VAPOREON
 
-<img src="https://img.shields.io/badge/TYPE-WATER-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/TIPO-ÁGUA-00D9FF?style=flat-square" />
 
 **POSTGRESQL**
 
-Data Specialist
+Especialista em Dados
 
 </td>
 
@@ -245,15 +245,7 @@ Data Specialist
 
 ---
 
-# 📊 GITHUB STATS
-
-<div align="center">
-
-
-
-</div>
-
-<br>
+# 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
@@ -280,23 +272,24 @@ Data Specialist
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryan-Falcao&theme=tokyonight&utcOffset=-3" />
 
 </div>
+
 ---
 
-# 🐍 CONTRIBUTION ACTIVITY
+# 🐍 ATIVIDADE DE CONTRIBUIÇÃO
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribuições do GitHub" />
 
 </div>
 
 ---
 
-# 🧠 DEVELOPER ATTRIBUTES
+# 🧠 ATRIBUTOS DO DESENVOLVEDOR
 
 <div align="center">
 
-| ATTRIBUTE | LEVEL |
+| ATRIBUTO | NÍVEL |
 |:---:|:---:|
 | ☕ Java | ⭐⭐⭐⭐⭐ |
 | 🌱 Spring Boot | ⭐⭐⭐⭐⭐ |
@@ -305,56 +298,56 @@ Data Specialist
 | ⚛️ React | ⭐⭐⭐⭐ |
 | 🟨 JavaScript | ⭐⭐⭐⭐ |
 | 🐙 Git | ⭐⭐⭐⭐⭐ |
-| 🏗️ Architecture | ⭐⭐⭐ |
-| 🔐 Security | ⭐⭐⭐⭐ |
-| 💳 Integrations | ⭐⭐⭐⭐ |
+| 🏗️ Arquitetura | ⭐⭐⭐ |
+| 🔐 Segurança | ⭐⭐⭐⭐ |
+| 💳 Integrações | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-# 💡 DEVELOPMENT PHILOSOPHY
+# 💡 FILOSOFIA DE DESENVOLVIMENTO
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEARN-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BREAK-FF4D8D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEBUG-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UNDERSTAND-FFD166?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/IMPROVE-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APRENDER-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CONSTRUIR-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/QUEBRAR-FF4D8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEPURAR-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ENTENDER-FFD166?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/MELHORAR-00C896?style=for-the-badge" />
 
 <br><br>
 
-### “Don't just make it work. Understand why it works.”
+### “Não basta fazer funcionar. É preciso entender por que funciona.”
 
 </div>
 
 ---
 
-# 🎯 CURRENT GOALS
+# 🎯 OBJETIVOS ATUAIS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀_Backend_Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Desenvolvimento_Backend-7C3AED?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/🧠_Software_Architecture-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Arquitetura_de_Software-00D9FF?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/🔐_Secure_APIs-FF4D8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐_APIs_Seguras-FF4D8D?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🗄️_Database_Design-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🗄️_Modelagem_de_Bancos-336791?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/🌐_Full_Stack-FF6B35?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/💼_Real_Products-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼_Produtos_Reais-00C896?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 📫 CONNECT WITH ME
+# 📫 CONECTE-SE COMIGO
 
 <div align="center">
 
@@ -366,7 +359,7 @@ Data Specialist
 
 <a href="https://www.linkedin.com/">
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 
 </a>
 
@@ -380,11 +373,11 @@ Data Specialist
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFD166&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Keep+learning.;Keep+building.;Keep+evolving.+%E2%9A%A1" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFD166&center=true&vCenter=true&width=550&lines=Obrigado+por+visitar+meu+perfil!;Continue+aprendendo.;Continue+construindo.;Continue+evoluindo.+%E2%9A%A1" alt="Texto final animado" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MADE_WITH-☕_AND_CODE-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FEITO_COM-☕_E_CÓDIGO-0D1117?style=for-the-badge" />
 
 <br><br>
 
