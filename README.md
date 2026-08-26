@@ -249,13 +249,17 @@ Data Specialist
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FF4D8D&text_color=FFFFFF" />
 
-<br><br>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Falcao&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" />
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Falcao&repo=MenuQR&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=FF4D8D&text_color=FFFFFF" />
 
 </div>
 
