@@ -16,11 +16,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8D52FF&center=true&vCenter=true&width=600&lines=Construindo+APIs+robustas+com+Spring+Boot;Java+%2B+Spring+Security+%2B+JWT;Sempre+aprendendo%2C+sempre+shippando;Estagi%C3%A1rio+Backend+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80" />
 
+<br/><br/>
+
+<img src="https://play.pokemonshowdown.com/sprites/ani/charizard.gif" width="80" alt="Charizard" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="80" alt="Gengar" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="80" alt="Lucario" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="80" alt="Greninja" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/lapras.gif" width="80" alt="Lapras" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="80" alt="Mewtwo" />
+
 </div>
 
 <br/>
 
 ## 🧭 Sobre mim
+
+<img align="right" src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="100" alt="Lucario" />
 
 Estudante de **Engenharia de Software na UNIPÊ** (João Pessoa - PB, previsão 2029), migrando de uma base sólida em **React/TypeScript/Node.js** para uma especialização em **desenvolvimento Backend com Java e Spring Boot**.
 
@@ -33,6 +44,8 @@ Estudante de **Engenharia de Software na UNIPÊ** (João Pessoa - PB, previsão 
 <br/>
 
 ## 🛠️ Tech Stack
+
+<img align="right" src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="100" alt="Greninja" />
 
 <table>
 <tr>
@@ -92,29 +105,80 @@ Estudante de **Engenharia de Software na UNIPÊ** (João Pessoa - PB, previsão 
 
 ## 🚀 Projetos em Destaque
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ### 📅 Marquify
 Plataforma SaaS full-stack de agendamento para pequenos negócios locais (salões, barbearias, clínicas), com confirmação via WhatsApp.
 `Spring Boot` `Spring Security + JWT` `PostgreSQL` `React/Vite` `Axios interceptors`
+
+</td>
+<td width="30%" align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/lapras.gif" width="90" alt="Lapras" />
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ### 🍽️ MenuQr
 Plataforma SaaS para restaurantes com assinaturas recorrentes via Mercado Pago (fluxo preapproval) e validação de webhooks.
 `Spring Boot` `Mercado Pago API` `Webhooks` `ngrok`
 
+</td>
+<td align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90" alt="Gengar" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### 🔗 EncurtadorDeLinks-API
 Encurtador de URLs com backend em Spring Boot e frontend em React/Vite.
 `Spring Boot` `React` `REST API`
+
+</td>
+<td align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="90" alt="Greninja" />
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ### 🔮 Descubra seu Stand
 Projeto full-stack temático de JoJo's Bizarre Adventure que mapeia data de nascimento a arcanos do tarot e Stands.
 `Spring Boot` `React` `Deploy: Render + Vercel`
 
+</td>
+<td align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="90" alt="Mewtwo" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### 📆 Agenda Digital
 App de agendas compartilhadas com sincronização em tempo real e notificações push.
 `React` `Supabase Realtime` `Web Push` `RLS`
 
+</td>
+<td align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/lucario.gif" width="90" alt="Lucario" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### 🌌 Portfólio Pessoal
 Site pessoal com tema espacial, terminal animado e formulário de contato integrado.
 `React` `TypeScript` `Vite` `Supabase + Resend`
+
+</td>
+<td align="center">
+<img src="https://play.pokemonshowdown.com/sprites/ani/charizard.gif" width="90" alt="Charizard" />
+</td>
+</tr>
+</table>
 
 <br/>
 
