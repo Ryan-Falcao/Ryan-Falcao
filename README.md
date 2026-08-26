@@ -1,96 +1,145 @@
-<div align="center">
+👋 Olá, eu sou [Seu Nome]
+Software Engineering Student • Backend Developer in progress • Java & Spring Boot
 
-# Hi there, I'm a Backend Developer in progress! 👋
+Estudante de Engenharia de Software na UNIPÊ, em João Pessoa - PB, com previsão de conclusão em 2029.
 
-### **Estudante de Engenharia de Software | Focado no Ecossistema Java & Spring Boot**
+Comecei minha jornada construindo aplicações com React, TypeScript e Node.js e, atualmente, estou direcionando essa base para o desenvolvimento Backend com Java e Spring Boot.
 
-[![Java](https://img.shields.io/badge/Focus-Java%20%26%20Spring%20Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#-tech-stack)
-[![Backend Status](https://img.shields.io/badge/Target-Estágio%20Backend-007396?style=for-the-badge&logo=java&logoColor=white)](#-objetivo-profissional)
-[![Location](https://img.shields.io/badge/Location-João%20Pessoa%20--%20PB-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#-sobre-mim)
+Gosto de aprender construindo. Meu processo envolve escrever código, quebrar coisas, investigar bugs e entender o motivo por trás das soluções — não apenas fazê-las funcionar.
 
----
+Frontend ────────────────┐
+                         ├──► Backend
+React • TypeScript       │    Java • Spring Boot
+                         │    Security • JPA • PostgreSQL
+Node.js ─────────────────┘
 
-</div>
+🧭 Sobre mim
+🎓 Engenharia de Software — UNIPÊ · João Pessoa/PB · 2029
+☕ Atualmente focado em Java + Spring Boot
+🔐 Estudando Spring Security, JWT e autenticação
+🗄️ Aprofundando Spring Data JPA, Hibernate e PostgreSQL
+🚀 Construindo produtos próprios e projetos para colocar conhecimento em prática
+💼 Buscando oportunidades de estágio em Backend em todo o Brasil
+🧠 Aprendizado baseado em código, debugging e resolução de problemas
+⚙️ No dia a dia: IntelliJ IDEA · VS Code · Git · GitHub · PowerShell
+🛠️ Stack
+☕ Backend
+<p> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgresql" /> </p>
 
-## 🧭 Sobre Mim
+Java · Spring Boot · Spring Security · JWT · JPA · Hibernate · Node.js · REST APIs
 
-Olá! Sou estudante de **Engenharia de Software no UNIPÊ** (previsão de formação em 2029) em João Pessoa - PB. 
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite" /> </p>
 
-Atualmente, estou consolidando minha transição de uma base sólida em desenvolvimento web (**React, TypeScript e Node.js**) para uma **especialização focada no desenvolvimento Backend com Java e ecossistema Spring Boot**.
+React · TypeScript · JavaScript · Vite
 
-- 🎯 **Objetivo Profissional:** Buscando oportunidades de **estágio em desenvolvimento Backend** em qualquer região do Brasil (remoto ou presencial/híbrido).
-- 🏗️ **Em desenvolvimento:** Construindo os SaaS **Marquify** (sistema de agendamentos) e **MenuQr** (gestão e assinaturas para restaurantes).
-- 🧠 **Foco Atual:** Arquitetura RESTful, Spring Security, JWT, Spring Data JPA/Hibernate e otimização de consultas com PostgreSQL.
-- 💬 **Filosofia de Aprendizado:** Abordagem guiada por código (*code-first*), debugging prático, tratamento de exceções e resolução de problemas do mundo real.
+☁️ Infraestrutura & Integrações
+<p> <img src="https://skillicons.dev/icons?i=supabase,vercel,git,github" /> </p>
 
----
+Supabase · Render · Vercel · Git · GitHub · Webhooks · ngrok · Mercado Pago API
 
-## 🛠️ Tech Stack
+🚀 Projetos em destaque
+📅 Marquify
 
-### ☕ Backend (Foco Principal)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=fastapi&logoColor=white)
+SaaS full-stack de agendamento para negócios locais.
 
-### 🌐 Frontend & Serverless
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Sistema desenvolvido para facilitar o gerenciamento de agendamentos, com foco em uma experiência simples para negócios e clientes.
 
-### ☁️ Banco de Dados, Deploy & Integrações
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago_API-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1E1E1E?style=for-the-badge&logo=ngrok&logoColor=white)
+Destaques:
 
-### 🧰 Ferramentas & Workflow
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+API REST com Spring Boot
+Autenticação e autorização com Spring Security
+JWT
+PostgreSQL
+Interface em React
+Confirmações automatizadas via WhatsApp
 
----
+Java Spring Boot Spring Security JWT PostgreSQL React
 
-## 🚀 Projetos em Destaque
+🍽️ MenuQr
 
-| Projeto | Descrição | Tecnologias Chave |
-| :--- | :--- | :--- |
-| 📅 **Marquify** | SaaS full-stack para agendamentos em negócios locais com automação de confirmações via WhatsApp. | `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `React` |
-| 🍽️ **MenuQr** | Plataforma SaaS para restaurantes com gestão de cardápios, assinaturas recorrentes e validação de Webhooks. | `Spring Boot` `Mercado Pago API` `Webhooks` `ngrok` |
-| 🔗 **EncurtadorDeLinks-API** | Serviço RESTful para encurtamento de URLs com alto desempenho e interface moderna. | `Spring Boot` `React` `REST API` |
-| 🔮 **Descubra seu Stand** | Aplicação temática de *JoJo's Bizarre Adventure* calculando arcanos e Stands baseados na data de nascimento. | `Spring Boot` `React` `Render` `Vercel` |
-| 📆 **Agenda Digital** | Sistema de agendas compartilhadas com atualização de dados em tempo real e notificações push. | `React` `Supabase Realtime` `Web Push` `RLS` |
-| 🌌 **Portfólio Pessoal** | Interface interativa em tema espacial com terminal animado e integração de contatos. | `React` `TypeScript` `Vite` `Supabase` |
+SaaS para restaurantes com cardápios digitais e assinaturas recorrentes.
 
----
+Projeto voltado para transformar o cardápio digital em uma plataforma com modelo de assinatura.
 
-## 📊 Estatísticas e Atividade
+Destaques:
 
-<div align="center">
+Backend desenvolvido com Spring Boot
+Integração com Mercado Pago
+Assinaturas recorrentes
+Processamento e validação de Webhooks
+Ambiente de testes utilizando ngrok
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
+Java Spring Boot Mercado Pago API Webhooks ngrok
 
-</div>
+🔗 EncurtadorDeLinks-API
 
-> ⚠️ *Lembre-se de substituir `SEU_USUARIO_GITHUB` nas URLs das estatísticas acima pelo seu username correto.*
+Encurtador de URLs com API REST e interface web.
 
----
+Projeto desenvolvido para praticar construção de APIs e integração entre Backend e Frontend.
 
-<div align="center">
+Spring Boot REST API React
 
-### 🤝 Vamos nos conectar?
+🔮 Descubra seu Stand
 
-Sinta-se à vontade para explorar meus repositórios ou entrar em contato para oportunidades de estágio e colaboração!
+Uma aplicação inspirada em JoJo's Bizarre Adventure.
 
-</div>
+A aplicação utiliza a data de nascimento do usuário para determinar arcanos do tarot e um Stand correspondente.
+
+Além da parte divertida, o projeto serviu para praticar integração entre Backend e Frontend e deploy de aplicações.
+
+Spring Boot React Render Vercel
+
+📆 Agenda Digital
+
+Aplicação de agendas compartilhadas com sincronização em tempo real.
+
+Projeto focado em colaboração e comunicação em tempo real.
+
+Sincronização utilizando Supabase Realtime
+Notificações Push
+Row Level Security (RLS)
+
+React Supabase Realtime Web Push RLS
+
+🌌 Portfólio Pessoal
+
+Meu espaço pessoal na web.
+
+Um portfólio com temática espacial, terminal interativo e formulário de contato integrado.
+
+React TypeScript Vite Supabase
+
+🌱 Atualmente estudando
+Java
+ └── Spring Boot
+      ├── Spring Security
+      │    └── JWT
+      │
+      ├── Spring Data JPA
+      │    └── Hibernate
+      │
+      └── REST APIs
+
+PostgreSQL
+ ├── Modelagem
+ ├── Queries
+ └── Integração com Spring
+
+Arquitetura
+ ├── Boas práticas
+ ├── Separação de responsabilidades
+ └── Desenvolvimento de APIs
+
+
+Meu objetivo não é apenas aprender ferramentas isoladamente, mas entender como construir aplicações Backend completas, seguras e sustentáveis.
+
+🎯 Próximo passo
+
+Atualmente estou buscando uma oportunidade de estágio em desenvolvimento Backend, onde possa transformar esse conhecimento em experiência profissional, trabalhar em projetos reais e continuar evoluindo como desenvolvedor.
+
+Se você trabalha com Java, Spring Boot ou Backend e quiser trocar uma ideia, fique à vontade para entrar em contato.
+
+📫 Contato
+<p align="left"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <i>Construindo. Quebrando. Debugando. Aprendendo.</i> </p>
