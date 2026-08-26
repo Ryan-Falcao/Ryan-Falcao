@@ -1,145 +1,226 @@
-👋 Olá, eu sou Ryan Falcão
-Software Engineering Student • Backend Developer in progress • Java & Spring Boot
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    RYAN // README v2.0                      ║
+║              Software Engineer in Progress                  ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
-Estudante de Engenharia de Software na UNIPÊ, em João Pessoa - PB, com previsão de conclusão em 2029.
+<div align="center">
 
-Comecei minha jornada construindo aplicações com React, TypeScript e Node.js e, atualmente, estou direcionando essa base para o desenvolvimento Backend com Java e Spring Boot.
+# ⚡ RYAN.EXE
 
-Gosto de aprender construindo. Meu processo envolve escrever código, quebrar coisas, investigar bugs e entender o motivo por trás das soluções — não apenas fazê-las funcionar.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+things+that+actually+work+%F0%9F%9A%80" />
 
-Frontend ────────────────┐
-                         ├──► Backend
-React • TypeScript       │    Java • Spring Boot
-                         │    Security • JPA • PostgreSQL
-Node.js ─────────────────┘
+<br>
 
-🧭 Sobre mim
-🎓 Engenharia de Software — UNIPÊ · João Pessoa/PB · 2029
-☕ Atualmente focado em Java + Spring Boot
-🔐 Estudando Spring Security, JWT e autenticação
-🗄️ Aprofundando Spring Data JPA, Hibernate e PostgreSQL
-🚀 Construindo produtos próprios e projetos para colocar conhecimento em prática
-💼 Buscando oportunidades de estágio em Backend em todo o Brasil
-🧠 Aprendizado baseado em código, debugging e resolução de problemas
-⚙️ No dia a dia: IntelliJ IDEA · VS Code · Git · GitHub · PowerShell
-🛠️ Stack
-☕ Backend
-<p> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgresql" /> </p>
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-Java · Spring Boot · Spring Security · JWT · JPA · Hibernate · Node.js · REST APIs
+</div>
 
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite" /> </p>
+---
 
-React · TypeScript · JavaScript · Vite
+<div align="center">
 
-☁️ Infraestrutura & Integrações
-<p> <img src="https://skillicons.dev/icons?i=supabase,vercel,git,github" /> </p>
+### 🧬 `SYSTEM STATUS`
 
-Supabase · Render · Vercel · Git · GitHub · Webhooks · ngrok · Mercado Pago API
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILDING-MENUQR-FF4D8D?style=for-the-badge&logo=code&logoColor=white" />
 
-🚀 Projetos em destaque
-📅 Marquify
+</div>
 
-SaaS full-stack de agendamento para negócios locais.
+<br>
 
-Sistema desenvolvido para facilitar o gerenciamento de agendamentos, com foco em uma experiência simples para negócios e clientes.
+<!-- Pokémon animation -->
 
-Destaques:
+<div align="center">
 
-API REST com Spring Boot
-Autenticação e autorização com Spring Security
-JWT
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/pikachu-pokemon.gif" width="120">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://media.tenor.com/4D4wX5V7nGAAAAAC/eevee-pokemon.gif" width="120">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://media.tenor.com/6JZJfG3hG3AAAAAC/charizard-pokemon.gif" width="120">
+
+</div>
+
+<br>
+
+## 👾 `ABOUT_ME.exe`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  > Booting Ryan...                                         │
+│  > Loading developer profile...                            │
+│  > ████████████████████████████████████████ 100%          │
+│                                                            │
+│  Hello, I'm Ryan.                                          │
+│                                                            │
+│  Software Engineering student who enjoys turning           │
+│  ideas into real applications.                             │
+│                                                            │
+│  Currently focused on Backend Development, APIs,           │
+│  databases, authentication and full-stack applications.   │
+│                                                            │
+│  I like understanding how things work under the hood       │
+│  instead of simply making them work.                       │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+🧠 CURRENT_MISSION
+<div align="center">
+🎯 Mission	⚙️ Status
+Master Backend Development	🟢 In Progress
+Build scalable APIs	🟢 In Progress
+Improve Software Architecture	🟡 Training
+Become a Software Engineer	🔥 Main Quest
+Create SaaS products	🚀 Active
+</div>
+🛠️ TECH_STACK
+⚡ Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,javascript,python,php,html,css" /> </p>
+🧩 Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=spring,nodejs,express" /> </p>
+🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </p>
+🔧 Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" /> </p>
+🚀 CURRENT_PROJECT
+<div align="center"> <img src="https://media.tenor.com/7WjP4V4F7wAAAAAC/pokemon-pikachu.gif" width="100">
+🍽️ MenuQR
+
+A SaaS platform for digital restaurant menus.
+
+</div>
+┌──────────────────────────────────────────────────────────────┐
+│                         MENU QR                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Restaurant                                                 │
+│       │                                                      │
+│       ├── Dashboard                                          │
+│       ├── Menu Management                                    │
+│       ├── Categories                                         │
+│       ├── Products                                           │
+│       └── QR Code                                            │
+│                                                              │
+│                         ↓                                    │
+│                                                              │
+│                    Customer                                  │
+│                         │                                    │
+│                         ▼                                    │
+│                   Digital Menu                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+🔥 Architecture
+React
+   │
+   │ REST API
+   ▼
+Spring Boot
+   │
+   ├── JWT Authentication
+   ├── Business Logic
+   ├── Mercado Pago
+   ├── Webhooks
+   │
+   ▼
 PostgreSQL
-Interface em React
-Confirmações automatizadas via WhatsApp
+📊 GITHUB_STATS
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=FFFFFF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=00D9FF" /> </div>
+🐍 CONTRIBUTION.exe
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
+🎮 POKÉDEX
+<div align="center"> <table> <tr> <td align="center" width="180"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80"> <br>
 
-Java Spring Boot Spring Security JWT PostgreSQL React
+PIKACHU
 
-🍽️ MenuQr
+<br>
 
-SaaS para restaurantes com cardápios digitais e assinaturas recorrentes.
+Electric
 
-Projeto voltado para transformar o cardápio digital em uma plataforma com modelo de assinatura.
+<br>
 
-Destaques:
+⚡ Energy
 
-Backend desenvolvido com Spring Boot
-Integração com Mercado Pago
-Assinaturas recorrentes
-Processamento e validação de Webhooks
-Ambiente de testes utilizando ngrok
+</td> <td align="center" width="180"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80"> <br>
 
-Java Spring Boot Mercado Pago API Webhooks ngrok
+CHARIZARD
 
-🔗 EncurtadorDeLinks-API
+<br>
 
-Encurtador de URLs com API REST e interface web.
+Fire / Flying
 
-Projeto desenvolvido para praticar construção de APIs e integração entre Backend e Frontend.
+<br>
 
-Spring Boot REST API React
+🔥 Power
 
-🔮 Descubra seu Stand
+</td> <td align="center" width="180"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="80"> <br>
 
-Uma aplicação inspirada em JoJo's Bizarre Adventure.
+VAPOREON
 
-A aplicação utiliza a data de nascimento do usuário para determinar arcanos do tarot e um Stand correspondente.
+<br>
 
-Além da parte divertida, o projeto serviu para praticar integração entre Backend e Frontend e deploy de aplicações.
+Water
 
-Spring Boot React Render Vercel
+<br>
 
-📆 Agenda Digital
+💧 Adaptability
 
-Aplicação de agendas compartilhadas com sincronização em tempo real.
+</td> <td align="center" width="180"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="80"> <br>
 
-Projeto focado em colaboração e comunicação em tempo real.
+LUCARIO
 
-Sincronização utilizando Supabase Realtime
-Notificações Push
-Row Level Security (RLS)
+<br>
 
-React Supabase Realtime Web Push RLS
+Fighting / Steel
 
-🌌 Portfólio Pessoal
+<br>
 
-Meu espaço pessoal na web.
+🥋 Focus
 
-Um portfólio com temática espacial, terminal interativo e formulário de contato integrado.
+</td> </tr> </table> </div>
+💻 DEVELOPER_STATS
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  BACKEND       ███████████████████░░░░░  80%               │
+│  JAVA          ██████████████████░░░░░░  75%               │
+│  SPRING BOOT   █████████████████░░░░░░░  70%               │
+│  SQL           ███████████████████░░░░░  80%               │
+│  REACT         ███████████████░░░░░░░░░  65%               │
+│  JAVASCRIPT    █████████████████░░░░░░░  70%               │
+│  GIT           ████████████████████░░░░  85%               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+🧪 WHAT_I_LIKE_TO_BUILD
+<div align="center">
+🔐 Secure APIs
 
-React TypeScript Vite Supabase
+JWT • Authentication • Authorization • Webhooks
 
-🌱 Atualmente estudando
-Java
- └── Spring Boot
-      ├── Spring Security
-      │    └── JWT
-      │
-      ├── Spring Data JPA
-      │    └── Hibernate
-      │
-      └── REST APIs
+🗄️ Data Systems
 
-PostgreSQL
- ├── Modelagem
- ├── Queries
- └── Integração com Spring
+SQL • PostgreSQL • MySQL • Data Modeling
 
-Arquitetura
- ├── Boas práticas
- ├── Separação de responsabilidades
- └── Desenvolvimento de APIs
+🌐 Web Applications
 
+React • REST APIs • Spring Boot
 
-Meu objetivo não é apenas aprender ferramentas isoladamente, mas entender como construir aplicações Backend completas, seguras e sustentáveis.
+☁️ SaaS
 
-🎯 Próximo passo
+Subscriptions • Payments • Multi-tenant systems
 
-Atualmente estou buscando uma oportunidade de estágio em desenvolvimento Backend, onde possa transformar esse conhecimento em experiência profissional, trabalhar em projetos reais e continuar evoluindo como desenvolvedor.
-
-Se você trabalha com Java, Spring Boot ou Backend e quiser trocar uma ideia, fique à vontade para entrar em contato.
-
-📫 Contato
-<p align="left"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> <i>Construindo. Quebrando. Debugando. Aprendendo.</i> </p>
+</div>
+📡 CONNECT
+<div align="center"> <a href="https://github.com/SEU_USERNAME"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4D8D" /> </a> </div>
+<div align="center"> <img src="https://media.tenor.com/8bYw5r6rLxQAAAAC/pokemon-pikachu.gif" width="180">
+Thanks for visiting my profile!
+> Keep learning.
+> Keep building.
+> Keep evolving. ⚡
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" /> </div> ```
