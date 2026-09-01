@@ -371,7 +371,7 @@ function Contato() {
         )}
         <div className="social-links">
           <a
-            href="https://github.com/Ryan-Falcao"
+            href="https://www.linkedin.com/in/ryan-falcao/"
             target="_blank"
             rel="noopener noreferrer"
           >
