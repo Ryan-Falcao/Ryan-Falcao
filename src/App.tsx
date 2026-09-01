@@ -379,7 +379,7 @@ function Contato() {
           </a>
           <span>·</span>
           <a
-            href="https://www.linkedin.com/in/ryan-marques-monteiro-falca%CC%83o-0a4775397/"
+            href="www.linkedin.com/in/ryan-falcao"
             target="_blank"
             rel="noopener noreferrer"
           >
