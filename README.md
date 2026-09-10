@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="110" alt="Gengar">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="105" alt="Gengar">
 
 <br>
 
@@ -13,12 +13,15 @@
 <a href="https://github.com/Ryan-Falcao">
 <img src="https://img.shields.io/badge/GitHub-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="GitHub">
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-3B4252?style=for-the-badge&logo=linkedin&logoColor=ECEFF4" alt="LinkedIn">
 </a>
+
 <a href="https://ryan-falcao-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfólio-81A1C1?style=for-the-badge&logo=vercel&logoColor=2E3440" alt="Portfólio">
 </a>
+
 <a href="mailto:SEU_EMAIL_AQUI">
 <img src="https://img.shields.io/badge/E--mail-3B4252?style=for-the-badge&logo=gmail&logoColor=ECEFF4" alt="E-mail">
 </a>
@@ -27,32 +30,32 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
-🎓 Estudante de **Engenharia de Software** com foco em **desenvolvimento backend e full stack**.
+Estudante de **Engenharia de Software** com foco em **backend e desenvolvimento full stack**.
 
-Gosto de transformar ideias em aplicações completas, trabalhando com APIs, regras de negócio, bancos de dados e interfaces web.
+Tenho interesse em construir aplicações completas, trabalhando com APIs, regras de negócio, bancos de dados e interfaces web.
 
-Atualmente estudo e desenvolvo projetos utilizando:
+### Tecnologias que utilizo
 
-- ☕ Java
-- 🚀 Spring Boot
-- 🐍 Python
-- 🌱 Django
-- ⚛️ React
-- 🟨 JavaScript
-- 🟢 Node.js
-- 🐘 PHP
-- 🐘 PostgreSQL
-- 🐬 MySQL
-- 🐳 Docker
-- 🔧 Git / GitHub
-- 🔌 APIs REST
-- 📡 Postman
+- Java
+- Spring Boot
+- Python
+- Django
+- JavaScript
+- React
+- Node.js
+- PHP
+- PostgreSQL
+- MySQL
+- Docker
+- Git e GitHub
+- REST APIs
+- Postman
 
 ---
 
-# 💻 Em poucas linhas
+# Código
 
     public class Ryan {
 
@@ -79,16 +82,17 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ---
 
-# 🧭 Minha trajetória
+# Trajetória
 
 <table>
 <tr>
-<td align="center" width="130">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="75" alt="Mewtwo">
+<td align="center" width="125">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="70" alt="Mewtwo">
 </td>
+
 <td>
 
-### 🧠 2019 — Primeiros passos
+### 2019 — Primeiros passos
 
 Comecei a programar com **Python**, desenvolvendo minha base de lógica de programação e resolução de problemas.
 
@@ -97,37 +101,40 @@ Comecei a programar com **Python**, desenvolvendo minha base de lógica de progr
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="75" alt="Pikachu">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="70" alt="Pikachu">
 </td>
+
 <td>
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 
-Passei a estudar **HTML, CSS, JavaScript, PHP, bancos de dados e desenvolvimento web**, criando projetos para aplicar os conhecimentos na prática.
+Passei a estudar **HTML, CSS, JavaScript, PHP, bancos de dados e desenvolvimento web**, criando projetos para colocar os conhecimentos em prática.
 
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="75" alt="Lucario">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="70" alt="Lucario">
 </td>
+
 <td>
 
-### 🎓 2026 — Engenharia de Software
+### 2026 — Engenharia de Software
 
-Entrei na graduação de **Engenharia de Software**, aprofundando meus conhecimentos em programação, banco de dados, arquitetura e desenvolvimento de sistemas.
+Iniciei a graduação em **Engenharia de Software**, aprofundando conhecimentos em programação, arquitetura, banco de dados e desenvolvimento de sistemas.
 
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="75" alt="Vaporeon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="70" alt="Vaporeon">
 </td>
+
 <td>
 
-### 🚀 Atualmente
+### Atualmente — Full Stack
 
 Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e Docker**, buscando evoluir profissionalmente como desenvolvedor.
 
@@ -137,19 +144,19 @@ Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e 
 
 ---
 
-# 🧰 Stack principal
+# Stack principal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,js,nodejs,php,postgres,mysql,docker,git,github,postman&perline=7" alt="Stack principal">
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,js,nodejs,php,postgres,mysql,docker,git,github,postman&perline=7" alt="Tecnologias">
 
 </div>
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
-## 💻 Linguagens
+### Linguagens
 
 <div align="center">
 
@@ -161,9 +168,7 @@ Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e 
 
 </div>
 
----
-
-## ⚙️ Backend
+### Backend
 
 <div align="center">
 
@@ -171,9 +176,7 @@ Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e 
 
 </div>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -181,9 +184,7 @@ Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e 
 
 </div>
 
----
-
-## 🗄️ Banco de Dados
+### Banco de dados
 
 <div align="center">
 
@@ -191,43 +192,42 @@ Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e 
 
 </div>
 
----
-
-## 🐳 DevOps e Ferramentas
+### DevOps e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" alt="DevOps e ferramentas">
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" alt="DevOps">
 
 </div>
 
 ---
 
-# 🚀 Projeto em destaque
+# Projeto em destaque
 
 <table>
 <tr>
+
 <td width="70%">
 
-## 🍽️ MenuQR
+## MenuQR
 
 **SaaS para criação e gerenciamento de cardápios digitais.**
 
-Projeto desenvolvido com o objetivo de permitir que restaurantes criem, organizem e disponibilizem seus cardápios digitais através de links e QR Codes.
+O MenuQR é uma aplicação que estou desenvolvendo para permitir que restaurantes criem, organizem e disponibilizem seus cardápios digitais através de links e QR Codes.
 
-### 🔹 Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres&perline=3" alt="MenuQR Backend">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres&perline=3" alt="Backend MenuQR">
 
-### 🔹 Frontend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,vite&perline=3" alt="MenuQR Frontend">
+<img src="https://skillicons.dev/icons?i=react,js,vite&perline=3" alt="Frontend MenuQR">
 
-### 🔹 Infraestrutura
+### Infraestrutura
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" alt="MenuQR Infraestrutura">
+<img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" alt="Infraestrutura MenuQR">
 
-### 🔹 Recursos
+### Recursos
 
 - Autenticação com JWT
 - Spring Security
@@ -243,33 +243,34 @@ Projeto desenvolvido com o objetivo de permitir que restaurantes criem, organize
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="100" alt="Eevee">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="90" alt="Eevee">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="100" alt="Vaporeon">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="90" alt="Vaporeon">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="100" alt="Dragonite">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="90" alt="Dragonite">
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🐍 Projeto Django
+# Projeto Django
 
-## 🎮 Game Library API
+## Game Library API
 
-API REST desenvolvida para trabalhar com uma biblioteca de jogos e integração com API externa.
+API REST desenvolvida com **Django REST Framework**, integração com API externa e relacionamento entre entidades.
 
 ### Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,docker&perline=4" alt="Game Library API">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,docker&perline=4" alt="Tecnologias Game Library">
 
 </div>
 
@@ -286,37 +287,30 @@ API REST desenvolvida para trabalhar com uma biblioteca de jogos e integração 
 
 ---
 
-# 📊 Perfil técnico
+# Conhecimentos adicionais
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-95%25-3B4252?style=for-the-badge&logo=openjdk&logoColor=ECEFF4" alt="Java">
-<img src="https://img.shields.io/badge/Spring%20Boot-90%25-3B4252?style=for-the-badge&logo=springboot&logoColor=ECEFF4" alt="Spring Boot">
-<img src="https://img.shields.io/badge/JavaScript-90%25-3B4252?style=for-the-badge&logo=javascript&logoColor=ECEFF4" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-85%25-3B4252?style=for-the-badge&logo=react&logoColor=ECEFF4" alt="React">
+<img src="https://img.shields.io/badge/REST%20API-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="REST API">
+<img src="https://img.shields.io/badge/JWT-3B4252?style=for-the-badge&logo=jsonwebtokens&logoColor=ECEFF4" alt="JWT">
+<img src="https://img.shields.io/badge/Spring%20Security-3B4252?style=for-the-badge&logo=springsecurity&logoColor=ECEFF4" alt="Spring Security">
+<img src="https://img.shields.io/badge/JSON-3B4252?style=for-the-badge&logo=json&logoColor=ECEFF4" alt="JSON">
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-85%25-3B4252?style=for-the-badge&logo=python&logoColor=ECEFF4" alt="Python">
-<img src="https://img.shields.io/badge/Django-80%25-3B4252?style=for-the-badge&logo=django&logoColor=ECEFF4" alt="Django">
-<img src="https://img.shields.io/badge/SQL-85%25-3B4252?style=for-the-badge&logo=postgresql&logoColor=ECEFF4" alt="SQL">
-<img src="https://img.shields.io/badge/Docker-75%25-3B4252?style=for-the-badge&logo=docker&logoColor=ECEFF4" alt="Docker">
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-85%25-3B4252?style=for-the-badge&logo=postgresql&logoColor=ECEFF4" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-85%25-3B4252?style=for-the-badge&logo=mysql&logoColor=ECEFF4" alt="MySQL">
-<img src="https://img.shields.io/badge/Git-85%25-3B4252?style=for-the-badge&logo=git&logoColor=ECEFF4" alt="Git">
+<img src="https://img.shields.io/badge/Lombok-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="Lombok">
+<img src="https://img.shields.io/badge/Mercado%20Pago-3B4252?style=for-the-badge&logo=mercadopago&logoColor=ECEFF4" alt="Mercado Pago">
+<img src="https://img.shields.io/badge/CORS-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="CORS">
 
 </div>
 
 ---
 
-# 📚 Estudando atualmente
+# Estudando atualmente
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,postgres,docker&perline=7" alt="Estudando">
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,postgres,docker&perline=7" alt="Tecnologias em estudo">
 
 <br><br>
 
@@ -326,53 +320,21 @@ API REST desenvolvida para trabalhar com uma biblioteca de jogos e integração 
 
 ---
 
-# 📈 GitHub Stats
+# GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+<img src="https://img.shields.io/github/followers/Ryan-Falcao?label=Seguidores&style=for-the-badge&color=3B4252&labelColor=2E3440" alt="Seguidores">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&langs_count=8&theme=nord&hide_border=true" alt="Top Languages">
+<img src="https://img.shields.io/github/stars/Ryan-Falcao?label=Stars&style=for-the-badge&color=81A1C1&labelColor=2E3440" alt="Stars">
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryan-Falcao&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+<img src="https://komarev.com/ghpvc/?username=Ryan-Falcao&label=Visualizações&style=for-the-badge&color=88C0D0&labelColor=2E3440" alt="Visualizações">
 
 </div>
 
 ---
 
-# 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ryan-Falcao/Ryan-Falcao/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
-</div>
-
----
-
-# 📊 Status
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ryan-Falcao&label=Visualizações%20do%20perfil&color=81A1C1&style=for-the-badge" alt="Profile views">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-Estudando%20e%20Construindo-3B4252?style=for-the-badge" alt="Status">
-<img src="https://img.shields.io/badge/Foco-Full%20Stack-3B4252?style=for-the-badge" alt="Foco">
-<img src="https://img.shields.io/badge/Backend-Java%20%2B%20Spring-3B4252?style=for-the-badge" alt="Backend">
-
-</div>
-
----
-
-# 🤝 Vamos construir algo?
+# Vamos construir algo?
 
 Estou sempre buscando evoluir através de novos projetos, desafios e experiências práticas.
 
@@ -392,10 +354,10 @@ Estou sempre buscando evoluir através de novos projetos, desafios e experiênci
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="100" alt="Snorlax">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="90" alt="Snorlax">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=120&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=110&section=footer" width="100%" alt="Footer">
 
 </div>
