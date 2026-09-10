@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="110"/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B4252,100:2E3440&height=220&section=header&text=Ryan%20Falcao&fontSize=52&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=56&descSize=17&descColor=81A1C1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=88C0D0&center=true&vCenter=true&width=640&lines=const+perfil+%3D+%22desenvolvedor%22%3B;Construo+produtos+digitais+que+resolvem+problemas+reais.;Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
@@ -24,7 +27,7 @@
 - 🏗️ Interesse em arquitetura de software, segurança e produtos digitais
 - 🤝 Aberto a projetos colaborativos e open source
 
-\`\`\`java
+```java
 public class Ryan {
 
     String perfil = "desenvolvedor";
@@ -40,7 +43,7 @@ public class Ryan {
         return "transformar ideias em software";
     }
 }
-\`\`\`
+```
 
 ---
 
@@ -213,9 +216,7 @@ Plataforma que estou desenvolvendo para permitir que restaurantes criem, gerenci
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&hide_border=true&bg_color=2E3440&title_color=ECEFF4&icon_color=88C0D0&text_color=81A1C1&border_color=434C5E" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&hide_border=true&bg_color=2E3440&title_color=ECEFF4&text_color=81A1C1&border_color=434C5E" />
 
-<img src="https://streak-stats.demolab.com/?user=Ryan-Falcao&hide_border=true&background=2E3440&ring=88C0D0&fire=A3BE8C&currStreakLabel=88C0D0&sideLabels=81A1C1&sideNums=ECEFF4&dates=616E88" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryan-Falcao&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ryan-Falcao&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
@@ -229,13 +230,13 @@ Plataforma que estou desenvolvendo para permitir que restaurantes criem, gerenci
 
 </div>
 
-> ⚙️ **Ativação necessária (uma vez só):** suba o arquivo `.github/workflows/snake.yml` (te mandei separado, ele **precisa** ficar nessa pasta específica — não dá pra juntar no README) pro seu repositório `Ryan-Falcao/Ryan-Falcao`. A Action roda todo dia, come seus quadradinhos de contribuição e publica o GIF acima na branch `output`. Sem isso, essa imagem fica quebrada.
+> ⚙️ **Ativação necessária (uma vez só):** incluí o arquivo `.github/workflows/snake.yml` junto com este README. Basta subir ele pro seu repositório `Ryan-Falcao/Ryan-Falcao` — a Action roda automaticamente todo dia, come seus quadradinhos de contribuição e publica o GIF acima na branch `output`. Sem isso, essa imagem fica quebrada.
 
 ---
 
 ## 🎯 Atualmente
 
-\`\`\`
+```
 C:\Users\Ryan> status
 
 [ ONLINE ]
@@ -251,7 +252,7 @@ Security       █████████████░░░░░░░░�
 > testando     integrações e APIs
 > corrigindo   bugs de produção (com café)
 > evoluindo    todo santo dia
-\`\`\`
+```
 
 ---
 
