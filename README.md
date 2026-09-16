@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img
@@ -424,4 +424,4 @@ software engineering • backend • full stack
 </sub>
 
 </div>
-````
+
