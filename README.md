@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://ryan-falcao-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
+  <img src="https://img.shields.io/badge/Portfolio-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
 </a>
 
 </div>
@@ -54,7 +54,7 @@ public class RyanFalcao {
     };
 
     String currentMission() {
-        return "Transformar conhecimento em software real.";
+        return "Turning knowledge into real software.";
     }
 
     void evolve() {
@@ -67,15 +67,15 @@ public class RyanFalcao {
 }
 ```
 
-Sou estudante de **Engenharia de Software** e desenvolvedor com maior interesse em
-**backend, APIs REST e desenvolvimento Full Stack**.
+I am a **Software Engineering student** and developer with a strong interest in
+**backend development, REST APIs, and Full Stack development**.
 
-Gosto principalmente da parte em que uma ideia começa a virar sistema:
+I especially enjoy the process of turning an idea into a real system:
 
-`modelagem` → `banco de dados` → `API` → `autenticação` → `regras de negócio` → `frontend` → `deploy`
+`modeling` → `database` → `API` → `authentication` → `business logic` → `frontend` → `deployment`
 
-Atualmente, venho construindo projetos com **Java + Spring Boot** e
-**Python + Django**, além de utilizar **React**, bancos de dados relacionais e Docker.
+Currently, I have been building projects mainly with **Java + Spring Boot** and
+**Python + Django**, while also working with **React**, relational databases, and Docker.
 
 ---
 
@@ -120,13 +120,13 @@ Atualmente, venho construindo projetos com **Java + Spring Boot** e
 <h3 align="center">🎮 Game Library API</h3>
 
 <p align="center">
-API REST para gerenciamento de uma biblioteca pessoal de jogos.
+REST API for managing a personal game library.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Ryan-Falcao/wsBackendFabricaDeSoftware26.2">
-<img src="https://img.shields.io/badge/VER_PROJETO-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
 </a>
 
 </p>
@@ -137,13 +137,13 @@ API REST para gerenciamento de uma biblioteca pessoal de jogos.
 
 ### Features
 
-- API REST com Django REST Framework
-- Autenticação JWT
-- Cadastro e login de usuários
-- Biblioteca pessoal de jogos
-- Sistema de avaliações
-- Integração com CheapShark API
-- Consulta de promoções
+- REST API with Django REST Framework
+- JWT authentication
+- User registration and login
+- Personal game library
+- Rating system
+- CheapShark API integration
+- Game deals search
 - Swagger / OpenAPI
 - Docker
 - MySQL
@@ -164,13 +164,13 @@ alt="Greninja">
 <h3 align="center">📅 Marquify API</h3>
 
 <p align="center">
-Backend para gerenciamento de usuários e agendamentos.
+Backend application for user and appointment management.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Ryan-Falcao/marquify-api">
-<img src="https://img.shields.io/badge/VER_PROJETO-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
 </a>
 
 </p>
@@ -181,15 +181,15 @@ Backend para gerenciamento de usuários e agendamentos.
 
 ### Features
 
-- API REST
-- Cadastro de usuários
-- Login
-- Autenticação JWT
+- REST API
+- User registration
+- Login system
+- JWT authentication
 - Spring Security
-- Rotas protegidas
-- CRUD de agendamentos
-- Persistência com MySQL
-- Arquitetura em camadas
+- Protected routes
+- Appointment CRUD
+- MySQL persistence
+- Layered architecture
 
 <div align="center">
 
@@ -212,31 +212,31 @@ alt="Lucario">
 
 <td width="70%" valign="top">
 
-<h2>🔮 Descubra seu Stand</h2>
+<h2>🔮 Discover Your Stand</h2>
 
-API desenvolvida em **Java + Spring Boot** inspirada em
+API developed with **Java + Spring Boot**, inspired by
 **JoJo's Bizarre Adventure**.
 
-A aplicação recebe uma data de nascimento, calcula um arcano
-a partir dos números da data e retorna um Stand associado ao resultado.
+The application receives a birth date, calculates an arcana based on the date numbers,
+and returns a Stand associated with the result.
 
-### O projeto envolve
+### The project includes
 
 - Java
 - Spring Boot
 - Spring Web
 - REST API
-- Regras de negócio
+- Business logic
 - Enums
-- Arquitetura Controller / Service / Model
-- Integração com frontend React
+- Controller / Service / Model architecture
+- React frontend integration
 - CORS
-- Deploy
+- Deployment
 
 <br>
 
 <a href="https://github.com/Ryan-Falcao/descubra-seu-stand-backend">
-<img src="https://img.shields.io/badge/VER_API-5E81AC?style=for-the-badge&logo=github&logoColor=ECEFF4">
+<img src="https://img.shields.io/badge/VIEW_API-5E81AC?style=for-the-badge&logo=github&logoColor=ECEFF4">
 </a>
 
 </td>
@@ -267,7 +267,7 @@ alt="Mewtwo">
 2019
  │
  ├── Python
- │    └── lógica de programação
+ │    └── programming logic
  │
  ▼
 Web Development
@@ -279,7 +279,7 @@ Web Development
  └── MySQL
  │
  ▼
-2026 ── Engenharia de Software
+2026 ── Software Engineering
  │
  ├── Java
  ├── Spring Boot
@@ -302,21 +302,21 @@ Web Development
 
 ---
 
-# 🧠 Atualmente
+# 🧠 Currently
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=81A1C1&center=true&vCenter=true&width=700&lines=Estudando+arquitetura+de+software...;Aprofundando+Java+e+Spring+Boot...;Construindo+APIs+REST...;Explorando+dados+e+bancos+relacionais...;git+commit+-m+%22keep+evolving%22"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=81A1C1&center=true&vCenter=true&width=700&lines=Studying+software+architecture...;Going+deeper+into+Java+and+Spring+Boot...;Building+REST+APIs...;Exploring+data+and+relational+databases...;git+commit+-m+%22keep+evolving%22"
 alt="Current studies">
 
 <br>
 
-### Atualmente evoluindo em
+### Currently improving in
 
-`Backend` • `Arquitetura de Software` • `APIs REST`
+`Backend` • `Software Architecture` • `REST APIs`
 
-`Banco de Dados` • `Segurança` • `Full Stack`
+`Databases` • `Security` • `Full Stack`
 
 </div>
 
@@ -328,7 +328,7 @@ alt="Current studies">
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=ECEFF4&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=ECEFF4"
 />
 
 <img
@@ -350,15 +350,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Falcao&theme=no
 
 ```yaml
 ryan:
-  course: "Engenharia de Software"
+  degree: "Software Engineering"
 
   interests:
     - Backend
     - Full Stack
     - APIs
-    - Banco de Dados
-    - Arquitetura de Software
-    - Inteligência Artificial
+    - Databases
+    - Software Architecture
+    - Artificial Intelligence
 
   currently_using:
     backend:
@@ -381,7 +381,7 @@ ryan:
       - GitHub
 
   goal:
-    "Construir software cada vez melhor."
+    "Build better software every day."
 ```
 
 ---
@@ -395,11 +395,11 @@ ryan:
 </a>
 
 <a href="https://www.linkedin.com/in/ryan-marques-monteiro-falca%CC%83o-0a4775397/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-5E81AC?style=for-the-badge&logo=linkedin&logoColor=ECEFF4">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-5E81AC?style=for-the-badge&logo=linkedin&logoColor=ECEFF4">
 </a>
 
 <a href="https://ryan-falcao-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfólio-Explorar-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
+<img src="https://img.shields.io/badge/Portfolio-Explore-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
 </a>
 
 <br><br>
@@ -424,4 +424,3 @@ software engineering • backend • full stack
 </sub>
 
 </div>
-
