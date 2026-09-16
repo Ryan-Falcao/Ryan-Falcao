@@ -1,257 +1,258 @@
+````markdown
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="105" alt="Gengar">
+<img
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"
+  width="105"
+  alt="Gengar"
+/>
+
+# Ryan Falcão
+
+### Software Engineering Student • Backend Developer • Full Stack
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=88C0D0&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+%2B+REST+APIs;Python+%2B+Django+%2B+Docker;React+%2B+JavaScript+%2B+Vite;PostgreSQL+%2B+MySQL;Building.+Learning.+Evolving."
+  alt="Typing SVG"
+/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B4252,100:2E3440&height=220&section=header&text=Ryan%20Falcao&fontSize=52&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=88C0D0" width="100%" alt="Header">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=88C0D0&center=true&vCenter=true&width=720&lines=Java+%2B+Spring+Boot+%2B+React;Python+%2B+Django+%2B+REST+APIs;PostgreSQL+%2B+MySQL+%2B+Docker;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG">
-
-<br><br>
-
 <a href="https://github.com/Ryan-Falcao">
-<img src="https://img.shields.io/badge/GitHub-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-3B4252?style=for-the-badge&logo=linkedin&logoColor=ECEFF4" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/ryan-marques-monteiro-falca%CC%83o-0a4775397/">
+  <img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=ECEFF4">
 </a>
 
 <a href="https://ryan-falcao-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfólio-81A1C1?style=for-the-badge&logo=vercel&logoColor=2E3440" alt="Portfólio">
-</a>
-
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/E--mail-3B4252?style=for-the-badge&logo=gmail&logoColor=ECEFF4" alt="E-mail">
+  <img src="https://img.shields.io/badge/Portfólio-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
 </a>
 
 </div>
 
 ---
 
-# Sobre mim
+## `> whoami`
 
-Estudante de **Engenharia de Software** com foco em **backend e desenvolvimento full stack**.
+```java
+public class RyanFalcao {
 
-Tenho interesse em construir aplicações completas, trabalhando com APIs, regras de negócio, bancos de dados e interfaces web.
+    String role = "Software Engineering Student";
+    String focus = "Backend & Full Stack";
 
-### Tecnologias que utilizo
+    String[] mainStack = {
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Django",
+        "React",
+        "PostgreSQL",
+        "MySQL",
+        "Docker"
+    };
 
-- Java
-- Spring Boot
-- Python
-- Django
-- JavaScript
-- React
-- Node.js
-- PHP
-- PostgreSQL
-- MySQL
-- Docker
-- Git e GitHub
-- REST APIs
-- Postman
-
----
-
-# Código
-
-    public class Ryan {
-
-        String objetivo = "Tornar-me um desenvolvedor Full Stack";
-
-        String[] tecnologias = {
-            "Java",
-            "Spring Boot",
-            "Python",
-            "Django",
-            "JavaScript",
-            "React",
-            "Node.js",
-            "PHP",
-            "PostgreSQL",
-            "MySQL",
-            "Docker"
-        };
-
-        String filosofia() {
-            return "Aprender, construir e evoluir.";
-        }
+    String currentMission() {
+        return "Transformar conhecimento em software real.";
     }
 
----
+    void evolve() {
+        while (true) {
+            learn();
+            build();
+            improve();
+        }
+    }
+}
+```
 
-# Trajetória
+Sou estudante de **Engenharia de Software** e desenvolvedor com maior interesse em
+**backend, APIs REST e desenvolvimento Full Stack**.
 
-<table>
-<tr>
-<td align="center" width="125">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="70" alt="Mewtwo">
-</td>
+Gosto principalmente da parte em que uma ideia começa a virar sistema:
 
-<td>
+`modelagem` → `banco de dados` → `API` → `autenticação` → `regras de negócio` → `frontend` → `deploy`
 
-### 2019 — Primeiros passos
-
-Comecei a programar com **Python**, desenvolvendo minha base de lógica de programação e resolução de problemas.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="70" alt="Pikachu">
-</td>
-
-<td>
-
-### Desenvolvimento Web
-
-Passei a estudar **HTML, CSS, JavaScript, PHP, bancos de dados e desenvolvimento web**, criando projetos para colocar os conhecimentos em prática.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="70" alt="Lucario">
-</td>
-
-<td>
-
-### 2026 — Engenharia de Software
-
-Iniciei a graduação em **Engenharia de Software**, aprofundando conhecimentos em programação, arquitetura, banco de dados e desenvolvimento de sistemas.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="70" alt="Vaporeon">
-</td>
-
-<td>
-
-### Atualmente — Full Stack
-
-Estou focado em **Java, Spring Boot, React, Python, Django, PostgreSQL, MySQL e Docker**, buscando evoluir profissionalmente como desenvolvedor.
-
-</td>
-</tr>
-</table>
+Atualmente, venho construindo projetos com **Java + Spring Boot** e
+**Python + Django**, além de utilizar **React**, bancos de dados relacionais e Docker.
 
 ---
 
-# Stack principal
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,js,nodejs,php,postgres,mysql,docker,git,github,postman&perline=7" alt="Tecnologias">
+### Core
 
-</div>
-
----
-
-# Tecnologias
-
-### Linguagens
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&perline=6" alt="Linguagens">
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,js,react&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-3B4252?style=for-the-badge&logo=sqlite&logoColor=ECEFF4" alt="SQL">
+### Database & Infrastructure
 
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=dark" />
 
-### Backend
+<br><br>
 
-<div align="center">
+### Web & Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,express&perline=6" alt="Backend">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,php,vite,postman&theme=dark" />
 
-</div>
+<br><br>
 
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=5" alt="Frontend">
-
-</div>
-
-### Banco de dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Bancos de dados">
-
-</div>
-
-### DevOps e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" alt="DevOps">
+<img src="https://img.shields.io/badge/REST_APIs-3B4252?style=flat-square&logo=fastapi&logoColor=88C0D0">
+<img src="https://img.shields.io/badge/JWT-3B4252?style=flat-square&logo=jsonwebtokens&logoColor=88C0D0">
+<img src="https://img.shields.io/badge/Spring_Security-3B4252?style=flat-square&logo=springsecurity&logoColor=88C0D0">
+<img src="https://img.shields.io/badge/SQL-3B4252?style=flat-square&logo=postgresql&logoColor=88C0D0">
 
 </div>
 
 ---
 
-# Projeto em destaque
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="70%">
+<td width="50%" valign="top">
 
-## MenuQR
+<h3 align="center">🎮 Game Library API</h3>
 
-**SaaS para criação e gerenciamento de cardápios digitais.**
+<p align="center">
+API REST para gerenciamento de uma biblioteca pessoal de jogos.
+</p>
 
-O MenuQR é uma aplicação que estou desenvolvendo para permitir que restaurantes criem, organizem e disponibilizem seus cardápios digitais através de links e QR Codes.
+<p align="center">
 
-### Backend
+<a href="https://github.com/Ryan-Falcao/wsBackendFabricaDeSoftware26.2">
+<img src="https://img.shields.io/badge/VER_PROJETO-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
+</a>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres&perline=3" alt="Backend MenuQR">
+</p>
 
-### Frontend
+### Stack
 
-<img src="https://skillicons.dev/icons?i=react,js,vite&perline=3" alt="Frontend MenuQR">
+`Python` `Django` `DRF` `MySQL` `Docker`
 
-### Infraestrutura
+### Features
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" alt="Infraestrutura MenuQR">
-
-### Recursos
-
-- Autenticação com JWT
-- Spring Security
-- CRUD de categorias e produtos
-- Cardápio público
-- QR Code
-- Controle de assinatura
-- Integração com Mercado Pago
-- PostgreSQL
+- API REST com Django REST Framework
+- Autenticação JWT
+- Cadastro e login de usuários
+- Biblioteca pessoal de jogos
+- Sistema de avaliações
+- Integração com CheapShark API
+- Consulta de promoções
+- Swagger / OpenAPI
 - Docker
+- MySQL
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif"
+width="75"
+alt="Greninja">
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📅 Marquify API</h3>
+
+<p align="center">
+Backend para gerenciamento de usuários e agendamentos.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Ryan-Falcao/marquify-api">
+<img src="https://img.shields.io/badge/VER_PROJETO-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
+</a>
+
+</p>
+
+### Stack
+
+`Java` `Spring Boot` `Spring Security` `MySQL`
+
+### Features
+
+- API REST
+- Cadastro de usuários
+- Login
+- Autenticação JWT
+- Spring Security
+- Rotas protegidas
+- CRUD de agendamentos
+- Persistência com MySQL
+- Arquitetura em camadas
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif"
+width="75"
+alt="Lucario">
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+<h2>🔮 Descubra seu Stand</h2>
+
+API desenvolvida em **Java + Spring Boot** inspirada em
+**JoJo's Bizarre Adventure**.
+
+A aplicação recebe uma data de nascimento, calcula um arcano
+a partir dos números da data e retorna um Stand associado ao resultado.
+
+### O projeto envolve
+
+- Java
+- Spring Boot
+- Spring Web
+- REST API
+- Regras de negócio
+- Enums
+- Arquitetura Controller / Service / Model
+- Integração com frontend React
+- CORS
+- Deploy
+
+<br>
+
+<a href="https://github.com/Ryan-Falcao/descubra-seu-stand-backend">
+<img src="https://img.shields.io/badge/VER_API-5E81AC?style=for-the-badge&logo=github&logoColor=ECEFF4">
+</a>
 
 </td>
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="90" alt="Eevee">
+<img
+src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif"
+width="105"
+alt="Mewtwo">
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif" width="90" alt="Vaporeon">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="90" alt="Dragonite">
+<sub>
+「 STANDO POWAH 」
+</sub>
 
 </td>
 
@@ -260,104 +261,167 @@ O MenuQR é uma aplicação que estou desenvolvendo para permitir que restaurant
 
 ---
 
-# Projeto Django
+# 🗺️ Developer Journey
 
-## Game Library API
-
-API REST desenvolvida com **Django REST Framework**, integração com API externa e relacionamento entre entidades.
-
-### Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,mysql,docker&perline=4" alt="Tecnologias Game Library">
-
-</div>
-
-### Recursos
-
-- Django REST Framework
-- API REST
-- JWT
-- MySQL
-- Docker
-- Integração com API externa
-- Relacionamento entre entidades
-- Swagger / OpenAPI
+```text
+2019
+ │
+ ├── Python
+ │    └── lógica de programação
+ │
+ ▼
+Web Development
+ │
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ ├── PHP
+ └── MySQL
+ │
+ ▼
+2026 ── Engenharia de Software
+ │
+ ├── Java
+ ├── Spring Boot
+ ├── REST APIs
+ ├── Spring Security
+ ├── JWT
+ │
+ ├── Python
+ ├── Django
+ ├── Django REST Framework
+ │
+ ├── React
+ ├── PostgreSQL
+ ├── MySQL
+ └── Docker
+ │
+ ▼
+[ building next level... ]
+```
 
 ---
 
-# Conhecimentos adicionais
+# 🧠 Atualmente
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST%20API-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="REST API">
-<img src="https://img.shields.io/badge/JWT-3B4252?style=for-the-badge&logo=jsonwebtokens&logoColor=ECEFF4" alt="JWT">
-<img src="https://img.shields.io/badge/Spring%20Security-3B4252?style=for-the-badge&logo=springsecurity&logoColor=ECEFF4" alt="Spring Security">
-<img src="https://img.shields.io/badge/JSON-3B4252?style=for-the-badge&logo=json&logoColor=ECEFF4" alt="JSON">
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=81A1C1&center=true&vCenter=true&width=700&lines=Estudando+arquitetura+de+software...;Aprofundando+Java+e+Spring+Boot...;Construindo+APIs+REST...;Explorando+dados+e+bancos+relacionais...;git+commit+-m+%22keep+evolving%22"
+alt="Current studies">
 
 <br>
 
-<img src="https://img.shields.io/badge/Lombok-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="Lombok">
-<img src="https://img.shields.io/badge/Mercado%20Pago-3B4252?style=for-the-badge&logo=mercadopago&logoColor=ECEFF4" alt="Mercado Pago">
-<img src="https://img.shields.io/badge/CORS-3B4252?style=for-the-badge&logoColor=ECEFF4" alt="CORS">
+### Atualmente evoluindo em
+
+`Backend` • `Arquitetura de Software` • `APIs REST`
+
+`Banco de Dados` • `Segurança` • `Full Stack`
 
 </div>
 
 ---
 
-# Estudando atualmente
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,react,postgres,docker&perline=7" alt="Tecnologias em estudo">
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Ryan-Falcao&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=ECEFF4&locale=pt-br"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&langs_count=8"
+/>
 
 <br><br>
 
-**Arquitetura de Software • APIs REST • Segurança • Banco de Dados • Full Stack**
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Falcao&theme=nord&hide_border=true&background=2E3440"
+/>
 
 </div>
 
 ---
 
-# GitHub
+# 🧩 Beyond Code
 
-<div align="center">
+```yaml
+ryan:
+  course: "Engenharia de Software"
 
-<img src="https://img.shields.io/github/followers/Ryan-Falcao?label=Seguidores&style=for-the-badge&color=3B4252&labelColor=2E3440" alt="Seguidores">
+  interests:
+    - Backend
+    - Full Stack
+    - APIs
+    - Banco de Dados
+    - Arquitetura de Software
+    - Inteligência Artificial
 
-<img src="https://img.shields.io/github/stars/Ryan-Falcao?label=Stars&style=for-the-badge&color=81A1C1&labelColor=2E3440" alt="Stars">
+  currently_using:
+    backend:
+      - Java
+      - Spring Boot
+      - Python
+      - Django
 
-<img src="https://komarev.com/ghpvc/?username=Ryan-Falcao&label=Visualizações&style=for-the-badge&color=88C0D0&labelColor=2E3440" alt="Visualizações">
+    frontend:
+      - React
+      - JavaScript
 
-</div>
+    database:
+      - PostgreSQL
+      - MySQL
+
+    infrastructure:
+      - Docker
+      - Git
+      - GitHub
+
+  goal:
+    "Construir software cada vez melhor."
+```
 
 ---
 
-# Vamos construir algo?
-
-Estou sempre buscando evoluir através de novos projetos, desafios e experiências práticas.
+# 📡 Connect
 
 <div align="center">
 
 <a href="https://github.com/Ryan-Falcao">
-<img src="https://img.shields.io/badge/GitHub-Visitar%20perfil-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Ryan--Falcao-2E3440?style=for-the-badge&logo=github&logoColor=ECEFF4">
+</a>
+
+<a href="https://www.linkedin.com/in/ryan-marques-monteiro-falca%CC%83o-0a4775397/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-5E81AC?style=for-the-badge&logo=linkedin&logoColor=ECEFF4">
 </a>
 
 <a href="https://ryan-falcao-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfólio-Acessar-81A1C1?style=for-the-badge&logo=vercel&logoColor=2E3440" alt="Portfólio">
+<img src="https://img.shields.io/badge/Portfólio-Explorar-88C0D0?style=for-the-badge&logo=vercel&logoColor=2E3440">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="90" alt="Snorlax">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=110&section=footer" width="100%" alt="Footer">
+<img
+src="https://komarev.com/ghpvc/?username=Ryan-Falcao&label=Profile+Views&style=for-the-badge&color=88C0D0&labelColor=2E3440"
+/>
+
+<br><br>
+
+<img
+src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif"
+width="125"
+alt="Rayquaza">
+
+<br>
+
+### `while (alive) { learn(); build(); evolve(); }`
+
+<sub>
+software engineering • backend • full stack
+</sub>
 
 </div>
+````
