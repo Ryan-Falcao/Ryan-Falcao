@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="18" x2="1120" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2E3440"/>
+      <stop offset=".58" stop-color="#354052"/>
+      <stop offset="1" stop-color="#26364A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="86" y1="0" x2="610" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#88C0D0"/>
+      <stop offset="1" stop-color="#81A1C1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(337 204 -239 395 1010 84)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#88C0D0" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#88C0D0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#D8DEE9" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <path d="M784 0v360M822 0v360M860 0v360M898 0v360M936 0v360M974 0v360M1012 0v360M1050 0v360M1088 0v360M1126 0v360M1164 0v360" stroke="#D8DEE9" stroke-opacity=".045"/>
+  <circle cx="1000" cy="177" r="137" stroke="#88C0D0" stroke-opacity=".2"/>
+  <circle cx="1000" cy="177" r="104" stroke="#81A1C1" stroke-opacity=".18"/>
+  <circle cx="1000" cy="177" r="72" stroke="#88C0D0" stroke-opacity=".2"/>
+  <circle cx="1000" cy="177" r="7" fill="#88C0D0"/>
+  <circle cx="863" cy="177" r="4" fill="#81A1C1"/>
+  <circle cx="1000" cy="40" r="4" fill="#88C0D0"/>
+  <circle cx="1137" cy="177" r="4" fill="#81A1C1"/>
+  <rect x="882" y="87" width="250" height="181" rx="15" fill="#202936" fill-opacity=".84" stroke="#D8DEE9" stroke-opacity=".17"/>
+  <circle cx="903" cy="106" r="3.5" fill="#BF616A"/>
+  <circle cx="916" cy="106" r="3.5" fill="#EBCB8B"/>
+  <circle cx="929" cy="106" r="3.5" fill="#A3BE8C"/>
+  <path d="M906 141 920 153 906 165M930 165h23" stroke="#88C0D0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M906 191h104M906 207h77M906 223h91" stroke="#D8DEE9" stroke-opacity=".25" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 62h36" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="60" y="91" fill="#D8DEE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.7">SOFTWARE ENGINEERING · JOÃO PESSOA, BRAZIL</text>
+  <text x="56" y="177" fill="#ECEFF4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-3">Ryan Falcão</text>
+  <text x="61" y="216" fill="#D8DEE9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="400">Backend-focused developer</text>
+  <rect x="60" y="253" width="272" height="42" rx="21" fill="#88C0D0" fill-opacity=".13" stroke="#88C0D0" stroke-opacity=".42"/>
+  <circle cx="82" cy="274" r="4" fill="#88C0D0"/>
+  <text x="98" y="279" fill="#E5EEF3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing=".6">JAVA  /  SPRING BOOT  /  REST</text>
+  <text x="61" y="329" fill="#D8DEE9" fill-opacity=".65" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.7">BUILDING WITH CURIOSITY AND INTENTION</text>
+</svg>
