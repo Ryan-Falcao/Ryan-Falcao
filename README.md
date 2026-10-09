@@ -1,29 +1,66 @@
-# Portfólio — Ryan Falcão
+<div align="center">
 
-React e Vite. Apresentação de desenvolvedor backend com foco em Java e Spring Boot.
+# Ryan Falcão
 
-## Rodar
+### Software Engineering Student · Backend & Full Stack Developer
 
-```sh
-npm install
-npm run dev
-```
+**Java · Spring Boot · REST APIs**
 
-`npm run build` gera os arquivos de produção em `dist`. `npm run preview` permite conferir essa versão.
+[GitHub](https://github.com/Ryan-Falcao) · [LinkedIn](https://www.linkedin.com/in/ryan-falcao) · [Portfolio](https://ryan-falcao-portfolio.vercel.app)
 
-## Personalização
+</div>
 
-- **Foto:** crie `public/images`, coloque sua foto como `ryan.webp` e altere `profilePhoto` no início de `src/main.jsx` para `'/images/ryan.webp'`. Enquanto não houver foto, é exibida uma paisagem real.
-- **Sobre mim:** edite os dois parágrafos em `about-copy`. O texto atual usa apenas o nome e o foco técnico informados; formação, empresas e tempo de experiência não foram inventados.
-- **Projetos:** preencha `projects` no início de `src/main.jsx` com objetos contendo `title`, `description`, `tags` e `url`. O layout troca automaticamente a mensagem de espera pelos projetos.
-- **Certificados:** preencha `certificates` com `title`, `issuer`, `year` e `url`. Use URLs públicas ou arquivos dentro de `public`.
-- **Contato:** `email` e `whatsapp` estão no início de `src/main.jsx`.
+---
 
-## Imagens e estilo
+## About
 
-Fotografias reais, servidas pelo Unsplash, dependem de internet:
+I’m a Software Engineering student at **UNIPÊ**, in João Pessoa, Brazil, expected to graduate in 2029. I build web applications and REST APIs, with a primary focus on **backend development using Java and Spring Boot**. I also work across the stack with Python, Django, React, and relational databases. I’m particularly interested in software architecture, application security, and practical applications of AI.
 
-- Lago e floresta: https://unsplash.com/photos/WeFDiEDModQ — Luca Bravo.
-- Montanhas e reflexos: https://unsplash.com/photos/JaNtL4uGvG8 — Anne-Sophie Benoit.
+## Technology
 
-O efeito inspirado em Liquid Glass usa transparência, desfoque de fundo, bordas iluminadas e sombras internas. Navegadores sem suporte recebem painéis opacos para preservar a leitura. Fontes DM Sans e Manrope são carregadas pelo Google Fonts, com fontes locais de fallback.
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Spring Security, Python, Django, REST APIs |
+| **Frontend** | React, JavaScript, TypeScript |
+| **Databases** | SQL, PostgreSQL, MySQL |
+| **Tools & security** | Git, GitHub, Docker, JWT, OAuth |
+| **Languages** | C |
+
+## Selected projects
+
+### [Polaris Model](https://polaris-model.vercel.app/)
+
+A data-modeling web application focused on entity-relationship diagrams, with AI-related features. The live application is available at the link above.
+
+`Django` · `Django REST Framework` · `React` · `AI integrations`
+
+### [Descubra seu Stand](https://descubra-seu-stand-frontend.vercel.app/)
+
+A full-stack experience that uses a birth date to determine and display a personalized Stand. The React frontend communicates with a Java and Spring Boot REST API.
+
+`Java` · `Spring Boot` · `REST API` · `React`
+
+### [CurtaLink](https://curtalink.vercel.app/)
+
+A link-shortening application that turns long URLs into compact links that are easy to share.
+
+`Java` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `React`
+
+> Live demos are linked above. I’m keeping source-code links off this list until I can confirm the exact public repository for each project.
+
+## GitHub activity
+
+See my repositories and contribution history on [GitHub](https://github.com/Ryan-Falcao).
+
+## Connect
+
+- [GitHub](https://github.com/Ryan-Falcao)
+- [LinkedIn](https://www.linkedin.com/in/ryan-falcao)
+
+---
+
+<div align="center">
+
+*Built with curiosity, care, and a focus on understanding how software works.*
+
+</div>
