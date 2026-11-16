@@ -1,158 +1,265 @@
 <div align="center">
-  <img src="./assets/readme-cover.svg" alt="Ryan Falcão — Backend Developer, Java and Spring Boot" width="100%" />
 
-  <p>
-    <strong>SOFTWARE ENGINEERING STUDENT</strong> &nbsp;·&nbsp;
-    <strong>BACKEND DEVELOPER</strong> &nbsp;·&nbsp;
-    <strong>JAVA &amp; SPRING BOOT</strong>
-  </p>
+<img src="./public/images/github-readme-banner.svg" alt="Ryan Falcão — Backend & Full Stack Developer" width="100%" />
 
-  <p>
-    <a href="https://ryan-falcao.vercel.app/">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/ryan-falcao/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:ryanmarques2007f@gmail.com">Email</a>
-  </p>
+<a href="https://github.com/Ryan-Falcao">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=88C0D0&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;REST+APIs+%C2%B7+JWT+%C2%B7+Docker+%C2%B7+PostgreSQL+%2F+MySQL;3+live+projects+deployed+to+the+cloud;Open+to+remote+%26+international+roles" alt="Typing animation" />
+</a>
 
-  <p>
-    <img src="https://img.shields.io/badge/Location-Jo%C3%A3o_Pessoa%2C_Brazil-294e40?style=flat-square" alt="Location: João Pessoa, Brazil" />
-    <img src="https://img.shields.io/badge/Focus-Backend_Development-294e40?style=flat-square" alt="Focus: Backend Development" />
-    <img src="https://img.shields.io/badge/Open_to-International_Opportunities-294e40?style=flat-square" alt="Open to international opportunities" />
-  </p>
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-5E81AC?style=for-the-badge&logo=vercel&logoColor=white)](https://ryan-falcao-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-falcao)
+[![GitHub](https://img.shields.io/badge/GITHUB-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryan-Falcao)
+
+![Status](https://img.shields.io/badge/status-open_to_work-A3BE8C?style=flat-square)
+![Location](https://img.shields.io/badge/based_in-João_Pessoa,_BR_(UTC−3)-81A1C1?style=flat-square)
+![Work](https://img.shields.io/badge/work-remote_/_international-88C0D0?style=flat-square)
+![Education](https://img.shields.io/badge/B.Sc.-Software_Engineering_·_UNIPÊ-B48EAD?style=flat-square)
+
 </div>
 
 ---
 
-## 01 / About me
+## `~/whoami`
 
-I'm **Ryan Marques Monteiro Falcão**, a Software Engineering student based in **João Pessoa, Brazil**. My main focus is backend development with **Java, Spring Boot and REST APIs**.
+```yaml
+name:        Ryan Falcão
+role:        Backend & Full Stack Developer
+education:   B.Sc. Software Engineering @ UNIPÊ (exp. 2029)
+location:    João Pessoa, Brazil  # UTC−3
+languages:   [Portuguese (native), English (<your level, e.g. B2 / C1>)]
+core_stack:  [Java 21, Spring Boot, Spring Data JPA, PostgreSQL, React]
+also:        [Python 3.12, Django REST Framework, TypeScript, Docker, C]
+focus:       [REST API design, JWT auth, API security, cloud deployment]
+looking_for: Junior / Internship · Backend or Full Stack · Remote
+```
 
-I enjoy connecting the different parts of an application: business logic, data, authentication and user-facing interfaces. I also work with **Python and Django**, relational databases and web technologies.
+---
 
-My projects are where I put these interests into practice. I'm currently looking for an opportunity to contribute to a development team, learn from other engineers and keep growing in backend development, application security and software architecture.
-
-> Behind every good user experience, there is a well-built backend.
-
-## 02 / Technology stack
-
-The areas below reflect the technologies and tools featured in my portfolio.
+## ⚡ Highlights
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django&theme=light" alt="Java, Spring Boot, Python and Django" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,ts,js&theme=light" alt="React, TypeScript and JavaScript" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=light" alt="PostgreSQL, MySQL, Docker, Git and GitHub" />
+
+| 🌐 **3** | 🔌 **10** | 🐳 **Docker** | 🔐 **JWT** |
+|:---:|:---:|:---:|:---:|
+| apps live in production | documented REST endpoints in one API | Compose + MySQL healthcheck + volumes | custom auth class on SimpleJWT |
+
 </div>
 
+---
+
+## 🧰 Tech stack
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Backend &amp; APIs</strong><br />
-      Java · Spring Boot · Python · Django · REST APIs
-    </td>
-    <td width="50%" valign="top">
-      <strong>Security</strong><br />
-      Spring Security · JWT · OAuth
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Data &amp; databases</strong><br />
-      SQL · PostgreSQL · MySQL · Azure Data Lake
-    </td>
-    <td width="50%" valign="top">
-      <strong>Web interfaces</strong><br />
-      React · TypeScript · JavaScript
+    <td width="130"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Infrastructure &amp; tools</strong><br />
-      Docker · Git · GitHub
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
-    <td width="50%" valign="top">
-      <strong>Programming fundamentals</strong><br />
-      C · Programming logic
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>API & Auth</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
-## 03 / Selected projects
+---
+
+## 🚀 Featured projects
 
 <table>
   <tr>
-    <td width="42%" valign="top">
-      <img src="./assets/polaris-preview.svg" alt="Illustrative preview of a database entity-relationship diagram" width="100%" />
-    </td>
-    <td valign="top">
-      <h3>Polaris Model</h3>
-      <p><strong>Database modeling, from idea to structure.</strong></p>
-      <p>Create entity-relationship diagrams, document business rules and turn database models into SQL. Polaris Model brings the modeling workflow into one online tool.</p>
-      <p><code>Python</code> <code>Django</code> <code>React</code> <code>TypeScript</code> <code>SQL</code></p>
-      <a href="https://polaris-model.vercel.app/">Explore Polaris Model ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" valign="top">
-      <img src="./assets/stand-preview.svg" alt="Illustrative preview of a personalized Stand result card" width="100%" />
-    </td>
-    <td valign="top">
-      <h3>Descubra seu Stand</h3>
-      <p><strong>An interactive experience powered by a Java backend.</strong></p>
-      <p>Enter a name and date of birth to receive a personalized card. The project connects a React interface to a Java and Spring Boot backend through a REST API.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>REST API</code></p>
-      <a href="https://descubra-seu-stand-frontend.vercel.app/">Explore Descubra seu Stand ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" valign="top">
-      <img src="./assets/curtalink-preview.svg" alt="Illustrative preview of a URL shortener interface" width="100%" />
-    </td>
-    <td valign="top">
+    <td width="33%" valign="top">
+      <a href="https://curtalink.vercel.app/"><img src="./public/images/projects/curtalink.jpg" alt="CurtaLink" width="100%" /></a>
       <h3>CurtaLink</h3>
-      <p><strong>A simple utility for sharing shorter links.</strong></p>
-      <p>Turn long URLs into short, shareable links. Paste an address, generate the short link and copy it — no account required.</p>
-      <p><code>URL Shortener</code> <code>Persistent Links</code> <code>Web Application</code></p>
-      <a href="https://curtalink.vercel.app/">Explore CurtaLink ↗</a>
+      <p><b>Production URL shortener</b></p>
+      <ul>
+        <li>Click tracking + password-protected admin dashboard</li>
+        <li>Per-IP rate limiting and server-side URL validation</li>
+        <li>Vercel → Render (Docker) → Neon PostgreSQL</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://curtalink.vercel.app/"><b>▶ Live</b></a> · <a href="https://github.com/Ryan-Falcao/CurtaLink"><b>Code</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://polaris-model.vercel.app/"><img src="./public/images/projects/polaris-model.jpg" alt="Polaris Model" width="100%" /></a>
+      <h3>Polaris Model</h3>
+      <p><b>AI-assisted ER modeling tool</b></p>
+      <ul>
+        <li>Entity-relationship design workflow</li>
+        <li>AI integrations for data modeling</li>
+        <li>Django REST API + React client</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <a href="https://polaris-model.vercel.app/"><b>▶ Live</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://descubra-seu-stand-frontend.vercel.app/"><img src="./public/images/projects/descubra-seu-stand.jpg" alt="Descubra seu Stand" width="100%" /></a>
+      <h3>Descubra seu Stand</h3>
+      <p><b>Full-stack, decoupled deploys</b></p>
+      <ul>
+        <li>React UI consuming a Spring Boot REST API</li>
+        <li>Controller / Service / Model layering + CORS config</li>
+        <li>Backend and frontend deployed separately</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <a href="https://descubra-seu-stand-frontend.vercel.app/"><b>▶ Live</b></a> · <a href="https://github.com/Ryan-Falcao/descubra-seu-stand-backend"><b>Code</b></a>
     </td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Ryan-Falcao?tab=repositories">More on GitHub ↗</a></p>
+### 🎮 Game Library API — Django REST · JWT · Docker · MySQL
 
-<sub>Project preview graphics are illustrative. Visit each live project to see its actual interface.</sub>
+> Complete REST API with auth, external API integration and OpenAPI docs. **[→ View repository](https://github.com/Ryan-Falcao/wsBackendFabricaDeSoftware26.2)** · 40+ commits · ⭐ 3
 
-## 04 / Education
+| | |
+|---|---|
+| **What it does** | Users register, log in, search games and deals through the **CheapShark API**, build a personal library, rate and remove games |
+| **Auth** | Password hashing (`make_password` / `check_password`) · JWT access + refresh tokens · custom `UsuarioJWTAuthentication` class |
+| **API design** | 10 endpoints, public vs. protected routes, user resolved from the token (no `user_id` sent by the client), consistent error responses (400 / 401 / 404) |
+| **Integration** | External API isolated in a dedicated `CheapSharkService`, with failure handling when the provider is down |
+| **Docs** | Swagger UI, ReDoc and OpenAPI 3 schema via `drf-spectacular` |
+| **Infra** | Docker Compose with `web` (Django) + `db` (MySQL 9.0), healthcheck and a persistent volume |
 
-**Software Engineering** · UNIPÊ — Centro Universitário de João Pessoa  
-*Undergraduate degree in progress · 2026–2029 (expected)*
+---
 
-## 05 / Certifications
+## 🏗️ Architecture & deployment
 
-| Course | Issuer | Date |
-|:--|:--|:--|
-| Introduction to Generative AI and Agents | Microsoft | Sep 2026 |
-| Introduction to Git | Microsoft | Sep 2026 |
-| Introduction to Data Engineering on Azure | Microsoft | Jul 2026 |
-| Prompt Engineering and Applications in AI | UNIPÊ | Jun 2026 |
-| Introduction to Object-Oriented Programming | Fundação Bradesco | Feb 2026 |
+**CurtaLink — production topology**
 
-## 06 / Let's connect
+```mermaid
+flowchart LR
+    U["Visitor"] --> V["Vercel<br/>public UI + domain"]
+    V -->|API calls| R["Render<br/>Spring Boot API · Docker"]
+    R --> N[("Neon<br/>PostgreSQL")]
+```
 
-I'm interested in meeting developers, exchanging ideas and exploring opportunities to contribute to software teams. I'm open to **internship and junior/entry-level backend opportunities**, including international and remote positions.
+**Game Library API — local topology**
+
+```mermaid
+flowchart LR
+    C["Client / Swagger UI"] -->|"Bearer JWT"| W["web<br/>Django REST · :8000"]
+    W --> D[("db<br/>MySQL 9.0 · :3306")]
+    W -->|HTTPS| X["CheapShark API"]
+```
+
+---
+
+## 🔐 Security practices (from my own code)
+
+| Practice | Where |
+|---|---|
+| Server-side URL validation, `http` / `https` only | CurtaLink |
+| SQL injection protection through Spring Data JPA | CurtaLink |
+| Escaped output to prevent HTML/JS injection from stored URLs | CurtaLink |
+| Per-IP rate limiting on link creation | CurtaLink |
+| Secrets in environment variables, never in source | CurtaLink · Game Library API |
+| SQL logging disabled in production | CurtaLink |
+| Hashed passwords + JWT with refresh flow | Game Library API |
+
+---
+
+## ✅ Engineering practices
+
+<!-- ✅ = used in my projects · 🔄 = actively learning -->
+
+| Practice | Status |
+|---|:---:|
+| RESTful API design and OpenAPI documentation | ✅ |
+| Layered architecture (Controller · Service · Repository) | ✅ |
+| JWT authentication and protected routes | ✅ |
+| Relational modeling (PostgreSQL / MySQL) | ✅ |
+| Docker, Docker Compose and cloud deployment | ✅ |
+| External API integration with error handling | ✅ |
+| Automated tests (JUnit 5, Mockito, pytest) | 🔄 |
+| CI/CD with GitHub Actions | 🔄 |
+| Spring Security | 🔄 |
+
+---
+
+## 🕹️ Beyond web
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Ascensão — A Última Torre**](https://github.com/Ryan-Falcao/AscencaoDaTorre) | 2D game with floor progression, elemental enemies and dodge/attack patterns | C · Raylib |
+| [**Jogo da Velha**](https://github.com/ndu-xl/jogo-da-velha-pygame) | Tic-tac-toe with a Pygame interface (collaborative) | Python · Pygame |
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <a href="mailto:ryanmarques2007f@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_me-294e40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ryan" />
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-falcao/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-294e40?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://ryan-falcao.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-294e40?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
-  </a>
-  <br /><br />
-  <sub>Built with curiosity. Improved one project at a time.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎯 Open to
+
+| | |
+|---|---|
+| 💼 **Roles** | Backend Developer · Full Stack Developer · Internship / Junior |
+| 🌍 **Mode** | Remote · International · Hybrid in João Pessoa |
+| 🛠️ **Stack** | Java · Spring Boot · PostgreSQL · Docker · React |
+| 🕒 **Timezone** | UTC−3 — overlaps with the Americas and Europe |
+
+<div align="center">
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-falcao)
+[![Portfolio](https://img.shields.io/badge/See_more-Portfolio-5E81AC?style=for-the-badge&logo=vercel&logoColor=white)](https://ryan-falcao-portfolio.vercel.app)
+
+<sub>Clear interfaces · Dependable systems · Continuous learning</sub>
+
 </div>
