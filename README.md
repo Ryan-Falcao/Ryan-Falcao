@@ -19,9 +19,9 @@
 
 </div>
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## `~/whoami`
+<img src="./public/images/headers/whoami.svg" alt="~/whoami" width="100%" />
 
 ```yaml
 name:        Ryan Falcão
@@ -35,9 +35,9 @@ focus:       [REST API design, JWT auth, API security, cloud deployment]
 looking_for: Junior / Internship · Backend or Full Stack · Remote
 ```
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## ⚡ Highlights
+<img src="./public/images/headers/highlights.svg" alt="highlights" width="100%" />
 
 <div align="center">
 
@@ -47,9 +47,9 @@ looking_for: Junior / Internship · Backend or Full Stack · Remote
 
 </div>
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🧰 Tech stack
+<img src="./public/images/headers/stack.svg" alt="tech-stack" width="100%" />
 
 <table>
   <tr>
@@ -99,9 +99,9 @@ looking_for: Junior / Internship · Backend or Full Stack · Remote
   </tr>
 </table>
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🚀 Featured projects
+<img src="./public/images/headers/projects.svg" alt="featured-projects" width="100%" />
 
 <table>
   <tr>
@@ -169,9 +169,9 @@ looking_for: Junior / Internship · Backend or Full Stack · Remote
 | **Docs** | Swagger UI, ReDoc and OpenAPI 3 schema via `drf-spectacular` |
 | **Infra** | Docker Compose with `web` (Django) + `db` (MySQL 9.0), healthcheck and a persistent volume |
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🏗️ Architecture & deployment
+<img src="./public/images/headers/architecture.svg" alt="architecture & deployment" width="100%" />
 
 **CurtaLink — production topology**
 
@@ -191,9 +191,9 @@ flowchart LR
     W -->|HTTPS| X["CheapShark API"]
 ```
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🔐 Security practices (from my own code)
+<img src="./public/images/headers/security.svg" alt="security-practices" width="100%" />
 
 | Practice | Where |
 |---|---|
@@ -205,9 +205,9 @@ flowchart LR
 | SQL logging disabled in production | CurtaLink |
 | Hashed passwords + JWT with refresh flow | Game Library API |
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## ✅ Engineering practices
+<img src="./public/images/headers/practices.svg" alt="engineering-practices" width="100%" />
 
 <!-- ✅ = used in my projects · 🔄 = actively learning -->
 
@@ -223,28 +223,28 @@ flowchart LR
 | CI/CD with GitHub Actions | 🔄 |
 | Spring Security | 🔄 |
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🕹️ Beyond web
+<img src="./public/images/headers/beyond.svg" alt="beyond-web" width="100%" />
 
 | Project | Description | Stack |
 |---|---|---|
 | [**Ascensão — A Última Torre**](https://github.com/Ryan-Falcao/AscencaoDaTorre) | 2D game with floor progression, elemental enemies and dodge/attack patterns | C · Raylib |
 | [**Jogo da Velha**](https://github.com/ndu-xl/jogo-da-velha-pygame) | Tic-tac-toe with a Pygame interface (collaborative) | Python · Pygame |
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 📊 GitHub
+<img src="./public/images/headers/languages.svg" alt="languages" width="100%" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Falcao&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
+<img src="./public/images/languages.svg" alt="Languages and where I used them" width="100%" />
 
 </div>
 
----
+<img src="./public/images/divider.svg" alt="" width="100%" />
 
-## 🎯 Open to
+<img src="./public/images/headers/open.svg" alt="open-to-work" width="100%" />
 
 | | |
 |---|---|
