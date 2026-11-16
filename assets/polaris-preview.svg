@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430">
+ <rect width="720" height="430" rx="20" fill="#edf1ed"/>
+ <rect x="0" y="0" width="720" height="56" rx="20" fill="#294e40"/>
+ <rect x="0" y="36" width="720" height="20" fill="#294e40"/>
+ <circle cx="28" cy="28" r="6" fill="#d9e5dc"/><circle cx="50" cy="28" r="6" fill="#b6c8bb"/><circle cx="72" cy="28" r="6" fill="#8da997"/>
+ <text x="106" y="34" fill="#f6f8f4" font-family="Arial" font-size="17" font-weight="bold">POLARIS MODEL</text>
+ <text x="34" y="91" fill="#294e40" font-family="Arial" font-size="15" font-weight="bold">Entity relationship diagram</text>
+ <g stroke="#668575" stroke-width="3" fill="none"><path d="M238 205H320M422 205H500M170 245V306H360V245"/><path d="M422 205H452V306H500"/></g>
+ <g fill="#fff" stroke="#9aafa1" stroke-width="2">
+  <rect x="70" y="135" width="168" height="110" rx="9"/><rect x="320" y="135" width="102" height="110" rx="9"/><rect x="500" y="135" width="150" height="110" rx="9"/>
+ </g>
+ <g fill="#294e40"><rect x="70" y="135" width="168" height="29" rx="9"/><rect x="70" y="155" width="168" height="9"/><rect x="320" y="135" width="102" height="29" rx="9"/><rect x="320" y="155" width="102" height="9"/><rect x="500" y="135" width="150" height="29" rx="9"/><rect x="500" y="155" width="150" height="9"/></g>
+ <g fill="#f7faf7" font-family="Arial" font-size="13" font-weight="bold"><text x="86" y="155">CUSTOMER</text><text x="335" y="155">ORDER</text><text x="515" y="155">PRODUCT</text></g>
+ <g fill="#53685c" font-family="monospace" font-size="12"><text x="85" y="188">PK id</text><text x="85" y="211">name</text><text x="85" y="232">email</text><text x="333" y="188">PK id</text><text x="333" y="211">FK customer_id</text><text x="333" y="232">created_at</text><text x="515" y="188">PK id</text><text x="515" y="211">name</text><text x="515" y="232">price</text></g>
+ <g fill="#718b7b" font-family="Arial" font-size="12"><text x="267" y="194">1 : N</text><text x="451" y="194">N : N</text></g>
+ <rect x="70" y="330" width="580" height="48" rx="8" fill="#dce6de"/>
+ <text x="92" y="359" fill="#294e40" font-family="Arial" font-size="14">MODEL  /  RELATIONSHIPS  /  SQL</text>
+</svg>

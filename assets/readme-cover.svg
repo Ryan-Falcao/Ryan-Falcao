@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ryan Falcão — Backend Developer</title>
+  <desc id="desc">A calm green landscape with misty mountains and a lake, matching Ryan's portfolio visual identity.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dce7df"/>
+      <stop offset=".48" stop-color="#aebfb4"/>
+      <stop offset="1" stop-color="#557766"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#91aaa0"/>
+      <stop offset="1" stop-color="#294e40"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10271f" stop-opacity=".82"/>
+      <stop offset=".56" stop-color="#10271f" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#10271f" stop-opacity=".08"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1280" height="340" fill="url(#sky)"/>
+  <circle cx="1000" cy="68" r="62" fill="#f5f5e9" opacity=".48" filter="url(#blur)"/>
+  <path d="M0 210 170 80 300 176 475 54 675 204 820 106 1030 207 1155 105 1280 183V340H0Z" fill="#82998b" opacity=".7"/>
+  <path d="M0 235 170 137 310 221 485 123 660 234 825 145 1010 238 1160 144 1280 211V340H0Z" fill="#5d7969" opacity=".78"/>
+  <path d="M0 255 Q190 218 350 248 T700 247 T1030 245 T1280 230V340H0Z" fill="url(#water)"/>
+  <path d="M0 273 Q180 250 360 272 T720 270 T1050 264 T1280 255" fill="none" stroke="#d9e4dd" stroke-opacity=".38" stroke-width="3"/>
+  <path d="M0 296 Q190 277 380 295 T760 291 T1120 284 T1280 281" fill="none" stroke="#d9e4dd" stroke-opacity=".22" stroke-width="2"/>
+  <rect width="1280" height="340" fill="url(#shade)"/>
+  <g fill="#f6f7f2">
+    <text x="76" y="88" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5" opacity=".8">SOFTWARE ENGINEERING · BRAZIL</text>
+    <text x="70" y="190" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="bold" letter-spacing="-4">ryan<tspan fill="#c4d8cb">falcão.</tspan></text>
+    <text x="78" y="238" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2.3">BACKEND DEVELOPER  /  JAVA &amp; SPRING BOOT</text>
+  </g>
+  <path d="M78 270H260" stroke="#d5e4d9" stroke-width="2" opacity=".8"/>
+  <text x="78" y="305" fill="#eef3ed" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3" opacity=".85">CODE WITH PURPOSE.</text>
+</svg>

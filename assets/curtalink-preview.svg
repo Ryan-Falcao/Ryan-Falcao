@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfe9e1"/><stop offset="1" stop-color="#a9beb0"/></linearGradient></defs>
+ <rect width="720" height="430" rx="20" fill="url(#bg)"/>
+ <circle cx="610" cy="80" r="100" fill="#fff" opacity=".18"/><circle cx="85" cy="390" r="145" fill="#294e40" opacity=".06"/>
+ <rect x="74" y="62" width="572" height="304" rx="18" fill="#f9faf6" stroke="#fff" stroke-width="2"/>
+ <text x="112" y="112" fill="#294e40" font-family="Georgia" font-size="34" font-weight="bold">CurtaLink</text>
+ <text x="112" y="143" fill="#68796e" font-family="Arial" font-size="15">Short links. Simple sharing.</text>
+ <rect x="112" y="179" width="496" height="58" rx="9" fill="#edf2ed" stroke="#ccd8cf"/>
+ <text x="132" y="214" fill="#8b9a8f" font-family="Arial" font-size="14">Paste your long URL here...</text>
+ <rect x="112" y="255" width="148" height="43" rx="8" fill="#294e40"/>
+ <text x="186" y="282" text-anchor="middle" fill="#fff" font-family="Arial" font-size="14" font-weight="bold">SHORTEN URL</text>
+ <rect x="280" y="255" width="328" height="43" rx="8" fill="#e2ebe3"/>
+ <text x="299" y="282" fill="#486253" font-family="monospace" font-size="13">curtalink.vercel.app/abc123</text>
+ <text x="112" y="337" fill="#8a9b8e" font-family="Arial" font-size="11" letter-spacing="2">NO ACCOUNT REQUIRED</text>
+</svg>

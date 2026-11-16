@@ -1,95 +1,158 @@
+<div align="center">
+  <img src="./assets/readme-cover.svg" alt="Ryan Falcão — Backend Developer, Java and Spring Boot" width="100%" />
 
+  <p>
+    <strong>SOFTWARE ENGINEERING STUDENT</strong> &nbsp;·&nbsp;
+    <strong>BACKEND DEVELOPER</strong> &nbsp;·&nbsp;
+    <strong>JAVA &amp; SPRING BOOT</strong>
+  </p>
 
+  <p>
+    <a href="https://ryan-falcao.vercel.app/">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/ryan-falcao/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:ryanmarques2007f@gmail.com">Email</a>
+  </p>
 
-<div align="center"> <img src="./public/images/github-readme-banner.svg" alt="Ryan Falcão — Software Engineering student focused on backend development" width="100%" /> <a href="https://github.com/Ryan-Falcao"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=88C0D0&center=true&vCenter=true&width=820&lines=Software+Engineering+Student;Backend+Development+%7C+Java+%26+Spring+Boot;Python+%26+Django+%7C+React+%26+JavaScript;Building+and+improving+real+projects" alt="Software Engineering student focused on backend development" /> </a>
-<a href="https://ryan-falcao-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-5E81AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://www.linkedin.com/in/ryan-falcao/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Ryan-Falcao"> <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
-About me
-I started learning programming in 2019, and I'm now an undergraduate Software Engineering student at UNIPÊ, based in João Pessoa, Brazil. My current focus is backend development, mainly with Java and Spring Boot, while also building full-stack projects with Python, Django, React and JavaScript.
+  <p>
+    <img src="https://img.shields.io/badge/Location-Jo%C3%A3o_Pessoa%2C_Brazil-294e40?style=flat-square" alt="Location: João Pessoa, Brazil" />
+    <img src="https://img.shields.io/badge/Focus-Backend_Development-294e40?style=flat-square" alt="Focus: Backend Development" />
+    <img src="https://img.shields.io/badge/Open_to-International_Opportunities-294e40?style=flat-square" alt="Open to international opportunities" />
+  </p>
+</div>
 
-Most of my practical experience comes from personal and academic projects. Through them, I've worked on REST APIs, database integration, authentication, frontend-to-backend communication, and application deployment. I enjoy taking an idea from its first requirements to a working application, then improving it through testing and feedback.
+---
 
-I'm currently looking for my first internship in software development, preferably in backend development. I'm also open to full-stack opportunities.
+## 01 / About me
 
-Education
-Software Engineering — UNIPÊ
-Undergraduate degree · 2026–2029 (expected)
+I'm **Ryan Marques Monteiro Falcão**, a Software Engineering student based in **João Pessoa, Brazil**. My main focus is backend development with **Java, Spring Boot and REST APIs**.
 
-Technologies
-These are technologies I've used in projects and studies. The list is not intended to suggest the same level of experience with every tool.
+I enjoy connecting the different parts of an application: business logic, data, authentication and user-facing interfaces. I also work with **Python and Django**, relational databases and web technologies.
 
-Backend
+My projects are where I put these interests into practice. I'm currently looking for an opportunity to contribute to a development team, learn from other engineers and keep growing in backend development, application security and software architecture.
 
+> Behind every good user experience, there is a well-built backend.
 
+## 02 / Technology stack
 
+The areas below reflect the technologies and tools featured in my portfolio.
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django&theme=light" alt="Java, Spring Boot, Python and Django" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,ts,js&theme=light" alt="React, TypeScript and JavaScript" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=light" alt="PostgreSQL, MySQL, Docker, Git and GitHub" />
+</div>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend &amp; APIs</strong><br />
+      Java · Spring Boot · Python · Django · REST APIs
+    </td>
+    <td width="50%" valign="top">
+      <strong>Security</strong><br />
+      Spring Security · JWT · OAuth
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Data &amp; databases</strong><br />
+      SQL · PostgreSQL · MySQL · Azure Data Lake
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web interfaces</strong><br />
+      React · TypeScript · JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Infrastructure &amp; tools</strong><br />
+      Docker · Git · GitHub
+    </td>
+    <td width="50%" valign="top">
+      <strong>Programming fundamentals</strong><br />
+      C · Programming logic
+    </td>
+  </tr>
+</table>
 
+## 03 / Selected projects
 
-Frontend
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <img src="./assets/polaris-preview.svg" alt="Illustrative preview of a database entity-relationship diagram" width="100%" />
+    </td>
+    <td valign="top">
+      <h3>Polaris Model</h3>
+      <p><strong>Database modeling, from idea to structure.</strong></p>
+      <p>Create entity-relationship diagrams, document business rules and turn database models into SQL. Polaris Model brings the modeling workflow into one online tool.</p>
+      <p><code>Python</code> <code>Django</code> <code>React</code> <code>TypeScript</code> <code>SQL</code></p>
+      <a href="https://polaris-model.vercel.app/">Explore Polaris Model ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <img src="./assets/stand-preview.svg" alt="Illustrative preview of a personalized Stand result card" width="100%" />
+    </td>
+    <td valign="top">
+      <h3>Descubra seu Stand</h3>
+      <p><strong>An interactive experience powered by a Java backend.</strong></p>
+      <p>Enter a name and date of birth to receive a personalized card. The project connects a React interface to a Java and Spring Boot backend through a REST API.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>REST API</code></p>
+      <a href="https://descubra-seu-stand-frontend.vercel.app/">Explore Descubra seu Stand ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
+      <img src="./assets/curtalink-preview.svg" alt="Illustrative preview of a URL shortener interface" width="100%" />
+    </td>
+    <td valign="top">
+      <h3>CurtaLink</h3>
+      <p><strong>A simple utility for sharing shorter links.</strong></p>
+      <p>Turn long URLs into short, shareable links. Paste an address, generate the short link and copy it — no account required.</p>
+      <p><code>URL Shortener</code> <code>Persistent Links</code> <code>Web Application</code></p>
+      <a href="https://curtalink.vercel.app/">Explore CurtaLink ↗</a>
+    </td>
+  </tr>
+</table>
 
+<p align="right"><a href="https://github.com/Ryan-Falcao?tab=repositories">More on GitHub ↗</a></p>
 
+<sub>Project preview graphics are illustrative. Visit each live project to see its actual interface.</sub>
 
+## 04 / Education
 
+**Software Engineering** · UNIPÊ — Centro Universitário de João Pessoa  
+*Undergraduate degree in progress · 2026–2029 (expected)*
 
-Databases
+## 05 / Certifications
 
+| Course | Issuer | Date |
+|:--|:--|:--|
+| Introduction to Generative AI and Agents | Microsoft | Sep 2026 |
+| Introduction to Git | Microsoft | Sep 2026 |
+| Introduction to Data Engineering on Azure | Microsoft | Jul 2026 |
+| Prompt Engineering and Applications in AI | UNIPÊ | Jun 2026 |
+| Introduction to Object-Oriented Programming | Fundação Bradesco | Feb 2026 |
 
-Tools and concepts
+## 06 / Let's connect
 
+I'm interested in meeting developers, exchanging ideas and exploring opportunities to contribute to software teams. I'm open to **internship and junior/entry-level backend opportunities**, including international and remote positions.
 
-
-
-
-
-
-
-Featured projects
-1. Polaris Model
-A web application for creating and editing Entity-Relationship Diagrams (ERDs) through an interactive visual editor.
-
-Create and organize entities, attributes, relationships and cardinalities.
-Work with associative relationships, self-references and specializations.
-Save and manage modeling projects.
-Built with a React frontend and a Django REST Framework backend, with JWT authentication.
-Stack: Python · Django REST Framework · React · TypeScript · PostgreSQL · JWT
-Status: Available online and under continuous development. AI-assisted modeling is experimental and still being tested; it is not presented as a stable public feature.
-
-2. CurtaLink
-A URL shortener built as a full-stack project, with a public interface, backend API, database persistence and an administrative dashboard.
-
-Create short links and redirect visitors to their original destinations.
-Track clicks and view recent links in a password-protected dashboard.
-Validate destination URLs on the server and accept only HTTP/HTTPS addresses.
-Apply per-IP limits to link creation and keep credentials in environment variables.
-Stack: Java 21 · Spring Boot · Spring Data JPA · PostgreSQL · Docker · Vercel · Render · Neon
-Repository
-
-3. Descubra seu Stand
-An interactive project inspired by JoJo's Bizarre Adventure. Visitors enter a date of birth and receive a Stand result based on the project's arcana-inspired mapping.
-
-React frontend connected to a Spring Boot REST API.
-HTTP communication between independently deployed frontend and backend applications.
-Backend endpoint for calculating and returning the result.
-Stack: Java · Spring Boot · React · Axios
-Frontend repository · Backend repository
-
-4. Ascensão da Torre
-A 2D turn-based roguelike game developed in C, using Raylib. The game is structured around progression through 30 floors, battles, equipment and enemy-specific mechanics.
-
-Stack: C11 · Raylib · CMake
-
-What I'm looking for
-I'm interested in starting my professional career through an internship where I can contribute to a development team, learn from code reviews and work on real software. My preference is backend development with Java/Spring Boot or Python/Django, but I'm open to full-stack roles as well.
-
-Location: João Pessoa, Paraíba, Brazil
-Work model: Remote or hybrid opportunities
-
-Get in touch
-Portfolio: ryan-falcao-portfolio.vercel.app
-LinkedIn: linkedin.com/in/ryan-falcao
-GitHub: github.com/Ryan-Falcao
-<div align="center"> <sub>Learning by building, improving one project at a time.</sub> </div>
-
-
-
-
+<div align="center">
+  <a href="mailto:ryanmarques2007f@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_me-294e40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ryan" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-falcao/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-294e40?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://ryan-falcao.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-294e40?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+  </a>
+  <br /><br />
+  <sub>Built with curiosity. Improved one project at a time.</sub>
+</div>
